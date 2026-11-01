@@ -1,0 +1,415 @@
+{
+  "id": "camp-gorra-classroom-v1",
+  "title": "Great fun at Camp Gorra!",
+  "description": "复习课堂上的露营报道，看看学生们体验了什么、学到了什么。",
+  "topic": "校刊 · 露营与团队合作",
+  "kind": "classroom",
+  "paragraphs": [
+    [
+      "The Year Eights have just returned from five days at Camp Gorra.",
+      "It was a great opportunity for students to get to know each other and to experience the beautiful surroundings in the hills of the Gorra Region.",
+      "The teachers who went on the trip - Mr Harding, Ms Rafferty and Ms Huang - reported having a wonderful time and that the Year Eight group was very well-behaved and enthusiastic.",
+      "“We were fortunate this year because it wasn't as cold and windy as it usually is and the river was full enough to enjoy canoeing,” said Ms Rafferty."
+    ],
+    [
+      "The students were organised into groups and participated in a number of activities that promoted teamwork, planning and cooperation.",
+      "For the more adventurous students, there were opportunities to try the giant swing, rock climbing, and a ropes course.",
+      "Of course, canoeing was very popular, with apparently a record number of wet people whose canoeing skills weren't quite up to the more challenging parts of the Gorra River."
+    ]
+  ],
+  "translations": [
+    "八年级的学生刚刚结束在戈拉营地为期五天的活动，返回学校。",
+    "这是让学生互相了解、体验戈拉地区丘陵间优美环境的好机会。",
+    "参加这次旅行的老师——哈丁先生、拉弗蒂女士和黄女士——表示，大家玩得很开心，而且这群八年级学生表现规矩、充满热情。",
+    "拉弗蒂女士说：‘今年我们很幸运，天气没有往年通常那么寒冷、那么多风，河水也足够充沛，可以尽情划独木舟。’",
+    "学生们被分成小组，参加了许多有助于培养团队协作、规划和合作能力的活动。",
+    "喜欢冒险的学生还有机会尝试巨型秋千、攀岩和绳索挑战课程。",
+    "当然，划独木舟很受欢迎；不过，显然有创纪录数量的人弄湿了衣服，因为他们的划船技巧还不足以应对戈拉河上一些更具挑战的河段。"
+  ],
+  "focus": [
+    "opportunity",
+    "surroundings",
+    "fortunate",
+    "participated",
+    "teamwork",
+    "cooperation",
+    "adventurous",
+    "challenging"
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一个（不定冠词）"
+    },
+    "activities": {
+      "meaning": "活动（activity 的复数）"
+    },
+    "adventurous": {
+      "meaning": "喜欢冒险的；勇于尝试的"
+    },
+    "and": {
+      "meaning": "和；并且"
+    },
+    "apparently": {
+      "meaning": "看来；显然（根据所知情况作判断）"
+    },
+    "as": {
+      "meaning": "像……一样；not as cold as 表示“不像……那么冷”"
+    },
+    "at": {
+      "meaning": "在……时候；at lunchtime 指在午饭时间"
+    },
+    "beautiful": {
+      "meaning": "美丽的；优美的"
+    },
+    "because": {
+      "meaning": "因为"
+    },
+    "camp": {
+      "meaning": "营地；露营活动"
+    },
+    "canoeing": {
+      "meaning": "划独木舟（活动）"
+    },
+    "challenging": {
+      "meaning": "有挑战性的；需要较高能力的"
+    },
+    "climbing": {
+      "meaning": "攀爬；rock climbing 指攀岩"
+    },
+    "cold": {
+      "meaning": "寒冷的"
+    },
+    "cooperation": {
+      "meaning": "合作"
+    },
+    "course": {
+      "meaning": "课程；ropes course 指绳索挑战课程；of course 表示“当然”"
+    },
+    "days": {
+      "meaning": "天（day 的复数）"
+    },
+    "each": {
+      "meaning": "每一个；each other 表示“彼此、互相”"
+    },
+    "eight": {
+      "meaning": "八；Year Eight 指八年级"
+    },
+    "eights": {
+      "meaning": "Year Eights 在这里指八年级学生"
+    },
+    "enjoy": {
+      "meaning": "喜欢；享受"
+    },
+    "enough": {
+      "meaning": "足够地；full enough to ... 表示“水量足够充沛，可以……”"
+    },
+    "enthusiastic": {
+      "meaning": "热情的；热心的"
+    },
+    "experience": {
+      "meaning": "亲身体验；经历（本文作动词）"
+    },
+    "five": {
+      "meaning": "五"
+    },
+    "for": {
+      "meaning": "对……而言；为……；具体根据句子理解"
+    },
+    "fortunate": {
+      "meaning": "幸运的"
+    },
+    "from": {
+      "meaning": "从……；向……（借来）"
+    },
+    "full": {
+      "meaning": "满的；这里指河水充沛"
+    },
+    "get": {
+      "meaning": "变得；get to know 指“逐渐了解、认识”"
+    },
+    "giant": {
+      "meaning": "巨大的；giant swing 指巨型秋千"
+    },
+    "gorra": {
+      "meaning": "戈拉（地名）"
+    },
+    "great": {
+      "meaning": "很好的；很棒的"
+    },
+    "group": {
+      "meaning": "小组；一群人"
+    },
+    "groups": {
+      "meaning": "小组（复数）"
+    },
+    "harding": {
+      "meaning": "哈丁（人名）"
+    },
+    "have": {
+      "meaning": "与 returned 构成现在完成时，表示“已经返回”"
+    },
+    "having": {
+      "meaning": "经历；having a wonderful time 表示“玩得很开心”"
+    },
+    "hills": {
+      "meaning": "丘陵；小山（复数）"
+    },
+    "huang": {
+      "meaning": "黄（姓氏）"
+    },
+    "in": {
+      "meaning": "在……里面"
+    },
+    "into": {
+      "meaning": "进入；organised into groups 表示“被分成小组”"
+    },
+    "is": {
+      "meaning": "是；as it usually is 指“像通常那样”"
+    },
+    "it": {
+      "meaning": "它；具体指代根据所在句判断，天气比较句中指天气"
+    },
+    "just": {
+      "meaning": "刚刚；have just returned 表示“刚刚回来”"
+    },
+    "know": {
+      "meaning": "知道；了解；get to know 表示“认识、了解”"
+    },
+    "more": {
+      "meaning": "更；more challenging 表示“更具挑战性的”"
+    },
+    "mr": {
+      "meaning": "先生（Mr，称谓）"
+    },
+    "ms": {
+      "meaning": "女士（Ms，称谓）"
+    },
+    "number": {
+      "meaning": "数量；a number of 指“许多”，a record number 指“创纪录的数量”"
+    },
+    "of": {
+      "meaning": "……的；a number of 中连接数量与事物"
+    },
+    "on": {
+      "meaning": "在……上；went on the trip 表示“参加这次旅行”"
+    },
+    "opportunities": {
+      "meaning": "机会（opportunity 的复数）"
+    },
+    "opportunity": {
+      "meaning": "机会"
+    },
+    "organised": {
+      "meaning": "组织；安排；were organised into groups 表示“被分成小组”"
+    },
+    "other": {
+      "meaning": "另一个；each other 表示“彼此”"
+    },
+    "participated": {
+      "meaning": "参加（participate 的过去式）；常与 in 连用"
+    },
+    "parts": {
+      "meaning": "部分；这里指河流的一些河段"
+    },
+    "people": {
+      "meaning": "人们"
+    },
+    "planning": {
+      "meaning": "规划；做计划"
+    },
+    "popular": {
+      "meaning": "受欢迎的"
+    },
+    "promoted": {
+      "meaning": "促进；有助于培养（promote 的过去式）"
+    },
+    "quite": {
+      "meaning": "相当；not quite 表示“还不完全、还不太”"
+    },
+    "rafferty": {
+      "meaning": "拉弗蒂（人名）"
+    },
+    "record": {
+      "meaning": "纪录；a record number 表示“创纪录的数量”"
+    },
+    "region": {
+      "meaning": "地区；区域"
+    },
+    "reported": {
+      "meaning": "报告；表示；reported having ... 指“表示经历了……”"
+    },
+    "returned": {
+      "meaning": "返回（return 的过去分词）"
+    },
+    "river": {
+      "meaning": "河流；River School 在本文是学校名称"
+    },
+    "rock": {
+      "meaning": "岩石；rock climbing 指攀岩"
+    },
+    "ropes": {
+      "meaning": "绳索（复数）；ropes course 指绳索挑战课程"
+    },
+    "said": {
+      "meaning": "说；这里也可以指海报上写着（say 的过去式）"
+    },
+    "skills": {
+      "meaning": "技能；技巧（复数）"
+    },
+    "students": {
+      "meaning": "学生（复数）"
+    },
+    "surroundings": {
+      "meaning": "周围的环境（常用复数形式）"
+    },
+    "swing": {
+      "meaning": "秋千"
+    },
+    "teachers": {
+      "meaning": "老师（复数）"
+    },
+    "teamwork": {
+      "meaning": "团队协作"
+    },
+    "that": {
+      "meaning": "引导后面的内容；realised that … 意为“意识到……”"
+    },
+    "the": {
+      "meaning": "定冠词，指语境中明确的人或事物，通常不单独译出"
+    },
+    "there": {
+      "meaning": "there were 表示“有……”"
+    },
+    "this": {
+      "meaning": "这；this year 指“今年”"
+    },
+    "time": {
+      "meaning": "时间；have a wonderful time 指“玩得很开心”"
+    },
+    "to": {
+      "meaning": "连接动词的不定式标记；get to know 中表示“逐渐认识”"
+    },
+    "trip": {
+      "meaning": "旅行；出游"
+    },
+    "try": {
+      "meaning": "尝试"
+    },
+    "up": {
+      "meaning": "向上；be up to 在这里表示“有能力应对”"
+    },
+    "usually": {
+      "meaning": "通常"
+    },
+    "very": {
+      "meaning": "非常"
+    },
+    "was": {
+      "meaning": "是（is 的过去式）"
+    },
+    "wasn't": {
+      "meaning": "was not 的缩写；表示“不是、没有”"
+    },
+    "we": {
+      "meaning": "我们；引语中指参加露营的人"
+    },
+    "well-behaved": {
+      "meaning": "举止得体的；守规矩的"
+    },
+    "went": {
+      "meaning": "去（go 的过去式）"
+    },
+    "were": {
+      "meaning": "是（are 的过去式）"
+    },
+    "weren't": {
+      "meaning": "were not 的缩写；表示“没有、并非”"
+    },
+    "wet": {
+      "meaning": "湿的；这里指弄湿了衣服的人"
+    },
+    "who": {
+      "meaning": "关系代词，指前面的老师，并引出关于他们的说明"
+    },
+    "whose": {
+      "meaning": "关系代词，表示“这些人的……”，引出他们的划船技巧"
+    },
+    "windy": {
+      "meaning": "多风的；风大的"
+    },
+    "with": {
+      "meaning": "带有；这里引出划船活动中的情况"
+    },
+    "wonderful": {
+      "meaning": "很棒的；令人愉快的"
+    },
+    "year": {
+      "meaning": "年；Year Eight 指八年级"
+    }
+  },
+  "questions": [
+    {
+      "prompt": "What did the camp activities help students practise?",
+      "options": [
+        "Taking professional photographs.",
+        "Teamwork, planning and cooperation.",
+        "Writing a school newspaper."
+      ],
+      "correct": 1,
+      "evidence": [
+        4
+      ],
+      "type": "细节定位",
+      "explanation": "第二段第一句直接列出了 teamwork、planning 和 cooperation。此题为根据原文重新编写的练习题。"
+    },
+    {
+      "prompt": "Why did some people probably get wet while canoeing?",
+      "options": [
+        "They were practising swimming on purpose.",
+        "There was no water in the river.",
+        "Their canoeing skills were not strong enough for the more difficult river sections."
+      ],
+      "correct": 2,
+      "evidence": [
+        6
+      ],
+      "type": "结合语境推断",
+      "explanation": "最后一句将‘弄湿的人’与技巧不足以应对较难河段联系起来；这是根据句意作出的推断。原文没有说他们主动游泳。此题为新增练习题。"
+    }
+  ],
+  "sentenceHelp": [
+    {
+      "sentence": 3,
+      "pattern": "not as ... as ...",
+      "help": "表示‘不像……那么……’。原文比较的是今年与往年的天气，不能仅凭这句断言当时完全不冷或不刮风。"
+    },
+    {
+      "sentence": 6,
+      "pattern": "not quite up to ...",
+      "help": "这里表示能力还不足以应对……；不是地点上的‘没有到达’。whose 引出的内容说明那些弄湿衣服的人的划船技巧。"
+    }
+  ],
+  "sourceNote": "课堂复习阅读 · 根据提供的课堂资料整理，理解题为补充练习；未核实为 AEAS 官方试题。",
+  "audios": [
+    {
+      "voice": "Sonia",
+      "file": "TUWEI_Camp_Gorra_Sonia.mp3",
+      "duration": 60.072
+    },
+    {
+      "voice": "Ryan",
+      "file": "TUWEI_Camp_Gorra_Ryan.mp3",
+      "duration": 60.192
+    },
+    {
+      "voice": "Natasha",
+      "file": "TUWEI_Camp_Gorra_Natasha.mp3",
+      "duration": 66.144
+    },
+    {
+      "voice": "William",
+      "file": "TUWEI_Camp_Gorra_William.mp3",
+      "duration": 55.176
+    }
+  ]
+}

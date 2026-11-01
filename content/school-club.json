@@ -164,5 +164,27 @@
       "explanation": "利奥画画、本写观察记录；他们用不同方式探索共同的问题，不需要喜欢完全一样的学科。"
     }
   ],
-  "sourceNote": "突围原创预习阅读；重点词依据家长提供词表选取，非 AEAS 官方试题或词频保证。"
+  "sourceNote": "突围原创预习阅读；重点词依据家长提供词表选取，非 AEAS 官方试题或词频保证。",
+  "audios": [
+    {
+      "voice": "Sonia",
+      "file": "TUWEI_School_Club_Sonia.mp3",
+      "duration": 52.776
+    },
+    {
+      "voice": "Ryan",
+      "file": "TUWEI_School_Club_Ryan.mp3",
+      "duration": 56.76
+    },
+    {
+      "voice": "Natasha",
+      "file": "TUWEI_School_Club_Natasha.mp3",
+      "duration": 59.448
+    },
+    {
+      "voice": "William",
+      "file": "TUWEI_School_Club_William.mp3",
+      "duration": 49.08
+    }
+  ]
 }

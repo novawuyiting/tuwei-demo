@@ -5,7 +5,7 @@
 ## 试用说明
 
 - 使用 Chrome 或 Safari 打开已发布的 HTTPS 网页，点击录音时允许麦克风。
-- 花园文章保留四种完整英式/澳洲口音 MP3；新加入的校园社团文章暂用设备语音朗读全文。单词、句子点读使用设备语音。
+- 三篇文章均提供四种完整英式/澳洲口音 MP3（Sonia、Ryan、Natasha、William），默认播放 Natasha 澳洲女声，可下载；单词、句子点读使用设备语音。
 - 录音与学习记录只保存到使用者当前浏览器，没有上传接口、账号隔离或跨设备同步。
 - 家长回看在同一浏览器内查看。家长在另一台设备上不能看到孩子的录音。
 - 学生端已移除模拟自动标注和模拟 G 反馈，练习回顾仅汇总真实操作记录；尚不分析录音或生成能力评价。
@@ -35,3 +35,7 @@ JavaScript 语法、数据覆盖及关键逻辑检查通过；尚未由开发端
 - school-club-v1: A Different Kind of School Club，128 词，14 句，重点 different / similar / subject / describe，两道理解题。编辑源见 content/school-club.json；运行页面使用内嵌数据。
 - garden-v1: A Garden for Everyone，保留旧录音关联，补充为两道理解题；旧单题答案兼容。
 - 先读再查：朗读示范、词义与译文默认收起，重点词回顾仅在读后提供。
+
+- camp-gorra-classroom-v1: Great fun at Camp Gorra!，课堂复习材料，163 词、7 句、两道补充理解题；来源未核实为 AEAS 官方试题。未发布原始课堂试卷或手写批注。
+- 可用 `?article=camp-gorra-classroom-v1` 或 `?article=school-club-v1` 直达文章，保留既有本机记录。
+- 新增两篇文章的全文 MP3 均由 Edge TTS 预生成并嵌入页面；不依赖设备安装澳洲语音。课堂 PDF 的听力题原始录音仍未提供，本次合成的是阅读文章示范。
