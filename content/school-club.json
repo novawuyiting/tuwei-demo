@@ -1,0 +1,168 @@
+{
+  "id": "school-club-v1",
+  "title": "A Different Kind of School Club",
+  "description": "两个兴趣不同的同学，能找到一起参加的社团吗？",
+  "topic": "校园与兴趣",
+  "focus": [
+    "different",
+    "similar",
+    "subject",
+    "describe"
+  ],
+  "paragraphs": [
+    [
+      "On Monday, Leo and Ben wanted to join a school club.",
+      "Their favourite subjects were different.",
+      "Leo liked art, but Ben enjoyed science.",
+      "They hoped to find a club they could join together."
+    ],
+    [
+      "At lunchtime, they saw a poster for the school nature club.",
+      "“Describe something you notice outside,” it said.",
+      "Leo drew a small bird near the gate.",
+      "Ben wrote about its colour and the food it ate."
+    ],
+    [
+      "Their work looked different, but they noticed something similar: the bird always returned to the same tree.",
+      "“Why does it come back?” Leo asked.",
+      "“Let's find out,” said Ben."
+    ],
+    [
+      "The next week, they joined the club.",
+      "Leo brought his pencils, and Ben brought a notebook.",
+      "They did not need to enjoy the same subjects to explore the world together."
+    ]
+  ],
+  "translations": [
+    "星期一，利奥和本想参加一个学校社团。",
+    "他们最喜欢的学科不同。",
+    "利奥喜欢美术，而本喜欢科学。",
+    "他们希望找到一个可以一起参加的社团。",
+    "午饭时间，他们看到一张学校自然社团的海报。",
+    "海报上写着：‘描述一件你在户外注意到的事物。’",
+    "利奥画了一只校门附近的小鸟。",
+    "本写下了它的颜色和它吃的食物。",
+    "他们的作品看起来不同，但他们注意到了一个相似之处：那只鸟总是回到同一棵树上。",
+    "‘它为什么会回来呢？’利奥问。",
+    "‘我们来找找原因吧。’本说。",
+    "第二周，他们加入了这个社团。",
+    "利奥带来了铅笔，本带来了笔记本。",
+    "即使喜欢的学科不同，他们也能一起探索世界。"
+  ],
+  "dictionary": {
+    "on": "在……时候；on Monday 指在星期一",
+    "monday": "星期一",
+    "leo": "利奥（人名）",
+    "ben": "本（人名）",
+    "wanted": "想要（want 的过去式）",
+    "join": "参加；加入",
+    "favourite": "最喜欢的（英式拼写）",
+    "subjects": "学科（subject 的复数）",
+    "were": "是（are 的过去式）",
+    "different": "不同的；be different 表示‘不同’",
+    "liked": "喜欢（like 的过去式）",
+    "art": "美术；艺术",
+    "but": "但是；而（表示对比）",
+    "enjoyed": "喜欢；享受（enjoy 的过去式）",
+    "science": "科学",
+    "hoped": "希望（hope 的过去式）",
+    "find": "找到；find out 表示‘查明、弄清’",
+    "together": "一起",
+    "lunchtime": "午饭时间",
+    "saw": "看见（see 的过去式）",
+    "poster": "海报",
+    "for": "为……；这里指介绍某社团的海报",
+    "nature": "自然；nature club 指自然社团",
+    "describe": "描述；说出……的样子或特点",
+    "you": "你；你们",
+    "notice": "注意到",
+    "outside": "在外面；在户外",
+    "said": "说；这里也可以指海报上写着（say 的过去式）",
+    "drew": "画（draw 的过去式）",
+    "bird": "鸟",
+    "gate": "大门；校门",
+    "wrote": "写（write 的过去式）",
+    "about": "关于",
+    "its": "它的",
+    "colour": "颜色（英式拼写）",
+    "food": "食物",
+    "ate": "吃（eat 的过去式）",
+    "work": "作品；这里指画和观察记录",
+    "looked": "看起来（look 的过去式）",
+    "similar": "相似的；有共同点的",
+    "always": "总是",
+    "returned": "返回；回到（return 的过去式）",
+    "same": "相同的；the same tree 指同一棵树",
+    "why": "为什么",
+    "does": "用于一般现在时疑问句的助动词",
+    "back": "回来；come back 指回来",
+    "asked": "问（ask 的过去式）",
+    "let's": "让我们……（let us 的缩写）",
+    "out": "find out 中表示‘查明、弄清’",
+    "next": "下一个的；the next week 指接下来的一周",
+    "week": "星期；周",
+    "joined": "加入（join 的过去式）",
+    "his": "他的",
+    "pencils": "铅笔（复数）",
+    "notebook": "笔记本",
+    "did": "用于一般过去时的助动词；did not 表示‘没有’",
+    "not": "不；没有",
+    "need": "需要",
+    "explore": "探索；探究",
+    "world": "世界",
+    "they": "他们；这里指利奥和本",
+    "their": "他们的；这里指利奥和本的",
+    "it": "它；根据所在句可指海报或小鸟",
+    "to": "用于不定式，连接 want、hope、need 等与后面的动词",
+    "brought": "带来（bring 的过去式）",
+    "enjoy": "喜欢；享受",
+    "something": "某件事物",
+    "school": "学校",
+    "club": "社团；俱乐部",
+    "and": "和；并且",
+    "a": "一个（不定冠词）",
+    "the": "定冠词，指语境中明确的事物，通常不单独译出",
+    "small": "小的",
+    "near": "在……附近",
+    "noticed": "注意到（notice 的过去式）",
+    "tree": "树",
+    "come": "来",
+    "read": "阅读",
+    "could": "可以；能够",
+    "in": "在……里面",
+    "at": "在……时候；at lunchtime 指在午饭时间",
+    "subject": "学科；subjects 是复数形式"
+  },
+  "questions": [
+    {
+      "prompt": "What did Ben write about?",
+      "options": [
+        "The club's meeting time.",
+        "The bird's colour and food.",
+        "Leo's favourite pencils."
+      ],
+      "correct": 1,
+      "evidence": [
+        7
+      ],
+      "explanation": "第二段最后一句说明，本写的是小鸟的颜色和它吃的食物。"
+    },
+    {
+      "prompt": "Why could Leo and Ben enjoy the nature club together?",
+      "options": [
+        "They could explore the same question in different ways.",
+        "They both wanted to stop studying science.",
+        "They had to draw exactly the same picture."
+      ],
+      "correct": 0,
+      "evidence": [
+        6,
+        7,
+        8,
+        13
+      ],
+      "explanation": "利奥画画、本写观察记录；他们用不同方式探索共同的问题，不需要喜欢完全一样的学科。"
+    }
+  ],
+  "sourceNote": "突围原创预习阅读；重点词依据家长提供词表选取，非 AEAS 官方试题或词频保证。"
+}
