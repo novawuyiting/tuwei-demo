@@ -10,7 +10,7 @@ context.SpeechSynthesisUtterance=function(text){this.text=text};
 const spoken=[];
 context.speechSynthesis={getVoices:()=>[{lang:'en-GB',localService:true}],cancel(){},pause(){},resume(){},speak(u){spoken.push(u.text);u.onstart();u.onend()}};
 vm.createContext(context);
-const path=require('node:path');const htmlPath=path.join(__dirname,'../index.html');const scriptText=fs.readFileSync(htmlPath,'utf8').split('<script>')[1].split('</script>')[0];let source=scriptText;
+const path=require('node:path');const htmlPath=path.join(__dirname,'../student.html');const scriptText=fs.readFileSync(htmlPath,'utf8').split('<script>')[1].split('</script>')[0];let source=scriptText;
 source=source.slice(0,source.lastIndexOf('\n(async()=>'));
 vm.runInContext(source,context);
 const run=s=>vm.runInContext(s,context);

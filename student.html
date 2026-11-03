@@ -11,7 +11,7 @@
 </style>
 </head>
 <body>
-<header><div class="header-left"><div class="brand">突围 <small>AEAS</small></div><span class="product" id="productName">朗读预习</span><span class="pill">家庭试用版</span></div><div class="actions"><span class="subtle">一次一篇 · 约 15 分钟</span><button id="parentNav">家长入口</button><button id="saveExit" class="quiet">保存退出</button><button class="quiet" id="studentNav" hidden>回到学习</button></div></header>
+<header><a href="./" style="margin-right:15px">← 首页</a><div class="header-left"><div class="brand">突围 <small>AEAS</small></div><span class="product" id="productName">朗读预习</span><span class="pill">家庭试用版</span></div><div class="actions"><span class="subtle">一次一篇 · 约 15 分钟</span><button id="parentNav">家长入口</button><button id="saveExit" class="quiet">保存退出</button><button class="quiet" id="studentNav" hidden>回到学习</button></div></header>
 <div class="muted-banner">家庭同步试用：先保存在本机；关联家庭后同步学习记录。录音云存储尚未接通，请保留本机音频。正式首页仍可照常使用。</div>
 <section class="panel" style="max-width:1120px;margin:20px auto;padding:20px" aria-label="家庭身份"><div class="row" style="justify-content:space-between"><div><strong id="identityLabel">未关联家庭 · 本机学习</strong><p class="subtle" style="margin:5px 0">学生继续练习，家长查看同一学生的学习记录。</p></div><div class="actions"><button id="openStudent" class="primary">学生入口</button><button id="openParent">家长入口</button><button id="identitySwitch" class="quiet">家庭与同步</button></div></div></section><section id="familyPanel" class="panel" style="max-width:1120px;margin:20px auto" hidden></section>
 <nav class="main-nav" id="mainNav" aria-label="主导航"></nav>
@@ -107,7 +107,7 @@ $('deleteAudio').onclick=()=>performDelete(true);$('deleteAll').onclick=()=>perf
 document.addEventListener('visibilitychange',()=>{if(document.hidden){stopSpeech();if(isRecording()){pauseRecording();notify('页面离开前台，录音已暂停。返回后请手动继续。')}persist()}});
 window.addEventListener('beforeunload',e=>{if(busy()){e.preventDefault();e.returnValue=''}});
 let warned15=false;setInterval(()=>{updateRecordUI();if(session&&!document.hidden&&['read','review'].includes(stage)&&session.status!=='finished'){session.activeSeconds++;if(session.activeSeconds>=900&&!warned15){warned15=true;notify('今天可以先到这里。结束当前录音后，即可保存退出。')}}},1000);
-window.AEAS_READING={busy,save:persist,records:()=>records,hasActivity,article:articleById,home:()=>navigate('home')};
+window.AEAS_READING={start:(id)=>{selectArticle(id);session=makeSession();persist();navigate('read')},busy,save:persist,records:()=>records,hasActivity,article:articleById,home:()=>navigate('home')};
 (async()=>{try{db=await openDb();records=(await transact('readonly',s=>s.getAll())).sort((a,b)=>b.created.localeCompare(a.created));storageOkay=true}catch(e){storageOkay=false}selectArticle('school-club-v1');session=records.find(r=>r.status==='draft'&&hasActivity(r))||makeSession();selectArticle(session.article);if(!records.some(r=>r.id===session.id))await persist();const requestedArticle=new URLSearchParams(window.location.search).get('article');if(requestedArticle&&ARTICLES[requestedArticle])openReading(requestedArticle);else render();if(!storageOkay)notify('此环境无法持久保存。可体验流程，但请下载录音备份。');else if(hasActivity(session))notify('已恢复上次保存在此浏览器的练习。')})();
 </script>
 <script>// Public values only. API routes enforce application sessions and family access.
@@ -250,6 +250,7 @@ if(identity&&api){window.AEAS_SYNC.currentBinding=binding();try{const me=await r
  error=e.message;}}
 else if(identity&&!api)identity=null;
 activeRole=identity?.member.role||((config.studentEntry||registrationCode)?'student':(config.parentEntry||parentRegistrationCode)?'parent':null);if(config.studentEntry||registrationCode||config.parentEntry||parentRegistrationCode)el('familyPanel').hidden=false;render();if(identity){await refresh();void sync();}
+if(identity?.member.role==='student'){const u=new URL(window.location.href),start=u.searchParams.get('start');if(start){u.searchParams.delete('start');history.replaceState(null,'',u);window.AEAS_READING.start(start);}}
 window.addEventListener('online',()=>void sync());setInterval(()=>void sync(),60000);
 </script>
 </body></html>
