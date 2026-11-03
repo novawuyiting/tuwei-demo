@@ -1,0 +1,422 @@
+{
+  "id": "right-book-v1",
+  "title": "Finding the Right Dolphin Book",
+  "description": "一本外形图片书，能解答所有关于海豚的问题吗？",
+  "topic": "图书馆与信息查找",
+  "focus": [
+    "dolphin",
+    "tail",
+    "jaw",
+    "flippers",
+    "type",
+    "relevant"
+  ],
+  "paragraphs": [
+    [
+      "Noah needed information about dolphins for a school project.",
+      "At the library, he found a book with a large dolphin on the cover.",
+      "Its pictures showed a tail, a long jaw and two flippers.",
+      "He thought he had found everything he needed."
+    ],
+    [
+      "However, most pages described how the animal looked.",
+      "His project asked how dolphins communicated.",
+      "The pictures were useful, but they could not answer that question."
+    ],
+    [
+      "A librarian asked Noah to explain what type of information he wanted.",
+      "He needed facts about sounds and group behaviour, not only body parts.",
+      "She helped him find a more relevant book."
+    ],
+    [
+      "Noah kept the first book for his drawing and used the second for his notes.",
+      "For example, one page in the second book explained that dolphins use whistles to communicate.",
+      "He learned to check whether a book answered his question, rather than choosing it only by its cover."
+    ]
+  ],
+  "translations": [
+    "诺亚需要为学校作业查找海豚的资料。",
+    "在图书馆里，他找到一本封面上有大海豚的书。",
+    "书中的图片展示了尾巴、长长的颌部和两只鳍状肢。",
+    "他以为自己已经找齐了所需资料。",
+    "然而，大部分页面描述的是这种动物的外形。",
+    "他的作业问的是海豚如何交流。",
+    "图片有用，但无法回答那个问题。",
+    "一位图书管理员请诺亚说明自己想要哪一类资料。",
+    "他需要关于声音和群体行为的知识，而不只是身体部位。",
+    "管理员帮他找到了一本更相关的书。",
+    "诺亚保留第一本书用来画图，用第二本书做笔记。",
+    "例如，第二本书有一页解释了海豚用哨声交流。",
+    "他学会了检查书能否回答自己的问题，而不只是根据封面选书。"
+  ],
+  "questions": [
+    {
+      "prompt": "Why did Noah need the second book?",
+      "options": [
+        "The first book had no pictures.",
+        "He wanted information about communication, not only appearance.",
+        "He had decided not to write about dolphins."
+      ],
+      "correct": 1,
+      "evidence": [
+        4,
+        5,
+        8,
+        9
+      ],
+      "explanation": "第一本主要讲外形，但作业问的是交流方式。两本都谈海豚，不等于都能回答同一个问题。"
+    },
+    {
+      "prompt": "Which statement best explains how Noah used the books?",
+      "options": [
+        "He threw away the first book because it was completely useless.",
+        "He used only the cover to answer every question.",
+        "The first helped with his drawing, while the second helped with communication notes."
+      ],
+      "correct": 2,
+      "evidence": [
+        10,
+        11
+      ],
+      "explanation": "but 前后说明第一本“有用但不足”；最后一段说明两本书承担不同用途，而不是第一本完全没价值。"
+    }
+  ],
+  "kind": "original",
+  "sourceNote": "突围原创预习阅读 · 复现课堂词汇，练习词形和句段逻辑；非 AEAS 官方试题。",
+  "audios": [
+    {
+      "voice": "Natasha",
+      "label": "澳洲女声 · Natasha",
+      "file": "TUWEI_right-book-v1_classroom_Natasha.mp3",
+      "data": "audio/TUWEI_right-book-v1_classroom_Natasha.mp3",
+      "duration": 64.8
+    },
+    {
+      "voice": "William",
+      "label": "澳洲男声 · William",
+      "file": "TUWEI_right-book-v1_classroom_William.mp3",
+      "data": "audio/TUWEI_right-book-v1_classroom_William.mp3",
+      "duration": 54.504
+    },
+    {
+      "voice": "Sonia",
+      "label": "英式女声 · Sonia",
+      "file": "TUWEI_right-book-v1_classroom_Sonia.mp3",
+      "data": "audio/TUWEI_right-book-v1_classroom_Sonia.mp3",
+      "duration": 59.856
+    },
+    {
+      "voice": "Ryan",
+      "label": "英式男声 · Ryan",
+      "file": "TUWEI_right-book-v1_classroom_Ryan.mp3",
+      "data": "audio/TUWEI_right-book-v1_classroom_Ryan.mp3",
+      "duration": 61.008
+    }
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一个（不定冠词）"
+    },
+    "about": {
+      "meaning": "关于"
+    },
+    "and": {
+      "meaning": "和；并且"
+    },
+    "animal": {
+      "meaning": "动物"
+    },
+    "answer": {
+      "meaning": "回答；解决"
+    },
+    "answered": {
+      "meaning": "回答了（answer 的过去式）"
+    },
+    "asked": {
+      "meaning": "问（ask 的过去式）"
+    },
+    "at": {
+      "meaning": "在……地点或时刻；at home 表示在家"
+    },
+    "behaviour": {
+      "meaning": "行为（英式拼写）"
+    },
+    "body": {
+      "meaning": "身体；body language 指肢体语言"
+    },
+    "book": {
+      "meaning": "书"
+    },
+    "but": {
+      "meaning": "但是；而（提示对比或限制，需保留前后两面意思）"
+    },
+    "by": {
+      "meaning": "通过；依据；by its cover 指根据封面"
+    },
+    "check": {
+      "meaning": "检查；核实"
+    },
+    "choosing": {
+      "meaning": "选择（choose 的 -ing 形式）"
+    },
+    "communicate": {
+      "meaning": "交流；传递信息（动词）"
+    },
+    "communicated": {
+      "meaning": "交流（communicate 的过去式）"
+    },
+    "could": {
+      "meaning": "能够；可以"
+    },
+    "cover": {
+      "meaning": "封面（本文作名词）"
+    },
+    "described": {
+      "meaning": "描述（describe 的过去式）"
+    },
+    "dolphin": {
+      "meaning": "海豚"
+    },
+    "dolphins": {
+      "meaning": "海豚（复数）"
+    },
+    "drawing": {
+      "meaning": "画；图画（本文作名词）"
+    },
+    "everything": {
+      "meaning": "一切；所有东西"
+    },
+    "example": {
+      "meaning": "例子；for example 表示例如"
+    },
+    "explain": {
+      "meaning": "解释；说明"
+    },
+    "explained": {
+      "meaning": "解释；说明（explain 的过去式）"
+    },
+    "facts": {
+      "meaning": "事实；知识信息（复数）"
+    },
+    "find": {
+      "meaning": "找到；find out 表示‘查明、弄清’"
+    },
+    "first": {
+      "meaning": "最初；第一"
+    },
+    "flippers": {
+      "meaning": "鳍状肢（flipper 的复数；本文指海豚的前肢）"
+    },
+    "for": {
+      "meaning": "为了；对……而言；具体按语境理解"
+    },
+    "found": {
+      "meaning": "找到（find 的过去式或过去分词）"
+    },
+    "group": {
+      "meaning": "小组；一群人"
+    },
+    "had": {
+      "meaning": "有；或与过去分词构成过去完成时"
+    },
+    "he": {
+      "meaning": "他"
+    },
+    "helped": {
+      "meaning": "帮助（help 的过去式）"
+    },
+    "him": {
+      "meaning": "他（宾格）"
+    },
+    "his": {
+      "meaning": "他的"
+    },
+    "how": {
+      "meaning": "如何；怎样"
+    },
+    "however": {
+      "meaning": "然而；不过（提示转折）"
+    },
+    "in": {
+      "meaning": "在……里面；在……期间"
+    },
+    "information": {
+      "meaning": "信息；资料（通常不可数）"
+    },
+    "it": {
+      "meaning": "它；所指对象随句子而变化"
+    },
+    "its": {
+      "meaning": "它的"
+    },
+    "jaw": {
+      "meaning": "颌；颌部；upper/lower jaw 分别指上颌和下颌"
+    },
+    "kept": {
+      "meaning": "保留；留下（keep 的过去式）"
+    },
+    "large": {
+      "meaning": "大的"
+    },
+    "learned": {
+      "meaning": "学会；了解到（learn 的过去式）"
+    },
+    "librarian": {
+      "meaning": "图书管理员"
+    },
+    "library": {
+      "meaning": "图书馆"
+    },
+    "long": {
+      "meaning": "长的；长时间的"
+    },
+    "looked": {
+      "meaning": "看起来（look 的过去式）"
+    },
+    "more": {
+      "meaning": "更多；更"
+    },
+    "most": {
+      "meaning": "大多数的"
+    },
+    "needed": {
+      "meaning": "需要（need 的过去式）"
+    },
+    "noah": {
+      "meaning": "诺亚（人名）"
+    },
+    "not": {
+      "meaning": "不；没有"
+    },
+    "notes": {
+      "meaning": "音符；备注（复数），具体根据文章理解"
+    },
+    "of": {
+      "meaning": "……的；用于连接词组"
+    },
+    "on": {
+      "meaning": "在……时候或上面；根据所在短语理解"
+    },
+    "one": {
+      "meaning": "一；一个"
+    },
+    "only": {
+      "meaning": "只有；仅仅"
+    },
+    "page": {
+      "meaning": "一页"
+    },
+    "pages": {
+      "meaning": "页面（复数）"
+    },
+    "parts": {
+      "meaning": "部分；这里指河流的一些河段"
+    },
+    "pictures": {
+      "meaning": "图片（复数）"
+    },
+    "project": {
+      "meaning": "项目；研究作业（本文指学校作业）"
+    },
+    "question": {
+      "meaning": "问题"
+    },
+    "rather": {
+      "meaning": "rather than 表示而不是"
+    },
+    "relevant": {
+      "meaning": "相关的；切合需要的"
+    },
+    "school": {
+      "meaning": "学校"
+    },
+    "second": {
+      "meaning": "第二个；另一个"
+    },
+    "she": {
+      "meaning": "她"
+    },
+    "showed": {
+      "meaning": "显示；表现出（show 的过去式）"
+    },
+    "sounds": {
+      "meaning": "声音（名词复数）；也可作动词，具体按语境理解"
+    },
+    "tail": {
+      "meaning": "尾巴"
+    },
+    "than": {
+      "meaning": "比；more than 表示不只是、超过"
+    },
+    "that": {
+      "meaning": "那；或引导后面的内容，通常不单独译出"
+    },
+    "the": {
+      "meaning": "定冠词，指明确的人或事物，通常不单独译出"
+    },
+    "they": {
+      "meaning": "他们；它们（主格）"
+    },
+    "thought": {
+      "meaning": "想；以为（think 的过去式）"
+    },
+    "to": {
+      "meaning": "用于不定式，或表示到……；根据所在短语理解"
+    },
+    "two": {
+      "meaning": "二；两个"
+    },
+    "type": {
+      "meaning": "类型；种类"
+    },
+    "use": {
+      "meaning": "使用"
+    },
+    "used": {
+      "meaning": "使用（use 的过去式）"
+    },
+    "useful": {
+      "meaning": "有用的"
+    },
+    "wanted": {
+      "meaning": "想要（want 的过去式）"
+    },
+    "were": {
+      "meaning": "是（be 的过去式复数形式）"
+    },
+    "what": {
+      "meaning": "什么；……的事情"
+    },
+    "whether": {
+      "meaning": "是否"
+    },
+    "whistles": {
+      "meaning": "哨声（本文作名词复数）"
+    },
+    "with": {
+      "meaning": "和……一起；带有……"
+    }
+  },
+  "sentenceHelp": [
+    {
+      "pattern": "However / but",
+      "help": "转折从“以为已找齐资料”转到“资料无法回答作业问题”。读到 but 时，需要保留前后两面的意思。"
+    },
+    {
+      "pattern": "For example, + 完整句子",
+      "help": "原文 For example 后接一个完整句子：one page ... explained ...。它举例说明第二本书为何相关。"
+    },
+    {
+      "pattern": "jaw / flippers",
+      "help": "jaw 指颌部（upper/lower jaw 可区分上下颌）；海豚的 flippers 宜理解为鳍状肢，不应简单当作鱼类的鱼鳍。"
+    }
+  ],
+  "paragraphPrompt": {
+    "paragraph": 1,
+    "question": "第二段为什么说图片“有用，但不能回答问题”？请说清楚两面的意思。"
+  },
+  "references": [
+    "https://oceanservice.noaa.gov/facts/dolphin_porpoise.html",
+    "https://ocean.si.edu/ocean-life/marine-mammals/whales"
+  ]
+}

@@ -1,0 +1,476 @@
+{
+  "id": "more-than-name-v1",
+  "title": "A Presentation That Makes Sense",
+  "description": "一张海豚海报，怎样从罗列单词变成清楚的介绍？",
+  "topic": "自我介绍与同伴交流",
+  "focus": [
+    "communication",
+    "whistle",
+    "pods",
+    "intelligent",
+    "body",
+    "language",
+    "chase"
+  ],
+  "paragraphs": [
+    [
+      "Tessa was preparing a short presentation about dolphins.",
+      "Her first poster contained many interesting words, such as communication, teamwork and intelligence.",
+      "However, the list did not explain how these ideas were connected."
+    ],
+    [
+      "She decided to organise her talk around one question: how do dolphins communicate?",
+      "Many dolphins live in groups called pods.",
+      "They can use whistles and body movements for communication.",
+      "For example, a dolphin may whistle to stay in contact with others."
+    ],
+    [
+      "Tessa wanted to call these movements body language.",
+      "Her teacher asked her to describe what she meant, rather than only using the phrase.",
+      "A movement might carry a message, but Tessa should not pretend that she could translate every signal."
+    ],
+    [
+      "She removed a sentence claiming that intelligent animals never chase one another.",
+      "That claim needed evidence, and her poster did not provide it.",
+      "Her final talk had fewer claims but clearer explanations, so her classmates could follow the main idea."
+    ]
+  ],
+  "translations": [
+    "苔莎正在准备一个关于海豚的简短介绍。",
+    "她的第一张海报包含许多有趣的单词，例如交流、团队合作和智力。",
+    "然而，词语清单并没有解释这些想法之间的联系。",
+    "她决定围绕一个问题组织介绍：海豚怎样交流？",
+    "许多海豚生活在被称为 pods 的群体里。",
+    "它们可以用哨声和身体动作交流。",
+    "例如，海豚可能发出哨声，与其他海豚保持联系。",
+    "苔莎想把这些动作称为肢体语言。",
+    "老师请她描述自己的具体意思，而不只是使用这个短语。",
+    "一个动作可能传递信息，但苔莎不应假装自己能翻译每一个信号。",
+    "她删去了一句声称聪明的动物从不互相追逐的话。",
+    "那个说法需要证据，而她的海报没有提供。",
+    "最后的介绍虽然少了一些断言，但解释更清楚，因此同学们能跟上主要意思。"
+  ],
+  "questions": [
+    {
+      "prompt": "What is the example about whistling used to explain?",
+      "options": [
+        "How a dolphin may stay in contact with others.",
+        "Why every sound has an exact human translation.",
+        "Why intelligent animals never chase one another."
+      ],
+      "correct": 0,
+      "evidence": [
+        5,
+        6
+      ],
+      "explanation": "For example 后的句子具体说明交流的一种用途：保持联系，而不是证明所有信号都能翻译。"
+    },
+    {
+      "prompt": "Why did Tessa remove the sentence about intelligent animals?",
+      "options": [
+        "The word intelligent was too long to read.",
+        "She did not have evidence for the claim.",
+        "Her teacher said that dolphins never moved."
+      ],
+      "correct": 1,
+      "evidence": [
+        10,
+        11
+      ],
+      "explanation": "被删去的是一个缺乏证据的绝对说法。删除它不意味着相反的绝对说法就一定成立。"
+    }
+  ],
+  "kind": "original",
+  "sourceNote": "突围原创预习阅读 · 复现课堂词汇，练习词形和句段逻辑；非 AEAS 官方试题。",
+  "audios": [
+    {
+      "voice": "Natasha",
+      "label": "澳洲女声 · Natasha",
+      "file": "TUWEI_more-than-name-v1_classroom_Natasha.mp3",
+      "data": "audio/TUWEI_more-than-name-v1_classroom_Natasha.mp3",
+      "duration": 74.664
+    },
+    {
+      "voice": "William",
+      "label": "澳洲男声 · William",
+      "file": "TUWEI_more-than-name-v1_classroom_William.mp3",
+      "data": "audio/TUWEI_more-than-name-v1_classroom_William.mp3",
+      "duration": 62.64
+    },
+    {
+      "voice": "Sonia",
+      "label": "英式女声 · Sonia",
+      "file": "TUWEI_more-than-name-v1_classroom_Sonia.mp3",
+      "data": "audio/TUWEI_more-than-name-v1_classroom_Sonia.mp3",
+      "duration": 68.304
+    },
+    {
+      "voice": "Ryan",
+      "label": "英式男声 · Ryan",
+      "file": "TUWEI_more-than-name-v1_classroom_Ryan.mp3",
+      "data": "audio/TUWEI_more-than-name-v1_classroom_Ryan.mp3",
+      "duration": 69.216
+    }
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一个（不定冠词）"
+    },
+    "about": {
+      "meaning": "关于"
+    },
+    "and": {
+      "meaning": "和；并且"
+    },
+    "animals": {
+      "meaning": "动物（复数）"
+    },
+    "another": {
+      "meaning": "另一个；再一个"
+    },
+    "around": {
+      "meaning": "围绕；在……周围"
+    },
+    "as": {
+      "meaning": "像……一样；作为；具体按语境理解"
+    },
+    "asked": {
+      "meaning": "问（ask 的过去式）"
+    },
+    "body": {
+      "meaning": "身体；body language 指肢体语言"
+    },
+    "but": {
+      "meaning": "但是；而（提示对比或限制，需保留前后两面意思）"
+    },
+    "call": {
+      "meaning": "称作；把……叫作"
+    },
+    "called": {
+      "meaning": "被称作的；called pods 指被称为 pods 的"
+    },
+    "can": {
+      "meaning": "能够；可以"
+    },
+    "carry": {
+      "meaning": "携带；搬运；carry a message 表示传递信息"
+    },
+    "chase": {
+      "meaning": "追逐；追赶"
+    },
+    "claim": {
+      "meaning": "说法；断言（名词）"
+    },
+    "claiming": {
+      "meaning": "声称；断言（claim 的 -ing 形式）"
+    },
+    "claims": {
+      "meaning": "说法；断言（名词复数）"
+    },
+    "classmates": {
+      "meaning": "同班同学（复数）"
+    },
+    "clearer": {
+      "meaning": "更清楚的（clear 的比较级）"
+    },
+    "communicate": {
+      "meaning": "交流；传递信息（动词）"
+    },
+    "communication": {
+      "meaning": "交流；信息传递（名词，以 -ation 结尾）"
+    },
+    "connected": {
+      "meaning": "连接（connect 的过去式或过去分词）"
+    },
+    "contact": {
+      "meaning": "联系；stay in contact 表示保持联系"
+    },
+    "contained": {
+      "meaning": "包含（contain 的过去式）"
+    },
+    "could": {
+      "meaning": "能够；可以"
+    },
+    "decided": {
+      "meaning": "决定（decide 的过去式）"
+    },
+    "describe": {
+      "meaning": "描述"
+    },
+    "did": {
+      "meaning": "用于过去时的助动词；did not 表示没有"
+    },
+    "do": {
+      "meaning": "做；这里用于 do more than ... 结构"
+    },
+    "dolphin": {
+      "meaning": "海豚"
+    },
+    "dolphins": {
+      "meaning": "海豚（复数）"
+    },
+    "every": {
+      "meaning": "每一个；每一"
+    },
+    "evidence": {
+      "meaning": "证据；依据（通常不可数）"
+    },
+    "example": {
+      "meaning": "例子；for example 表示例如"
+    },
+    "explain": {
+      "meaning": "解释；说明"
+    },
+    "explanations": {
+      "meaning": "解释；说明（复数）"
+    },
+    "fewer": {
+      "meaning": "更少的（修饰可数名词复数）"
+    },
+    "final": {
+      "meaning": "最后的；最终的"
+    },
+    "first": {
+      "meaning": "最初；第一"
+    },
+    "follow": {
+      "meaning": "跟随；理解并跟上思路"
+    },
+    "for": {
+      "meaning": "为了；对……而言；具体按语境理解"
+    },
+    "groups": {
+      "meaning": "小组（复数）"
+    },
+    "had": {
+      "meaning": "有；或与过去分词构成过去完成时"
+    },
+    "her": {
+      "meaning": "她的；她（宾格）"
+    },
+    "how": {
+      "meaning": "如何；怎样"
+    },
+    "however": {
+      "meaning": "然而；不过（提示转折）"
+    },
+    "idea": {
+      "meaning": "想法；main idea 指主旨"
+    },
+    "ideas": {
+      "meaning": "想法；概念（复数）"
+    },
+    "in": {
+      "meaning": "在……里面；在……期间"
+    },
+    "intelligence": {
+      "meaning": "智力；智慧（名词，以 -ence 结尾）"
+    },
+    "intelligent": {
+      "meaning": "聪明的；有智慧的（形容词）"
+    },
+    "interesting": {
+      "meaning": "有趣的"
+    },
+    "it": {
+      "meaning": "它；所指对象随句子而变化"
+    },
+    "language": {
+      "meaning": "语言；body language 指肢体语言"
+    },
+    "list": {
+      "meaning": "清单；列表"
+    },
+    "live": {
+      "meaning": "生活；居住（动词）"
+    },
+    "main": {
+      "meaning": "主要的"
+    },
+    "many": {
+      "meaning": "许多（修饰可数名词复数）"
+    },
+    "may": {
+      "meaning": "可能；可以（本文表示可能）"
+    },
+    "meant": {
+      "meaning": "意味着；导致（mean 的过去式）"
+    },
+    "message": {
+      "meaning": "信息；消息"
+    },
+    "might": {
+      "meaning": "可能"
+    },
+    "movement": {
+      "meaning": "动作；移动"
+    },
+    "movements": {
+      "meaning": "动作（复数）"
+    },
+    "needed": {
+      "meaning": "需要（need 的过去式）"
+    },
+    "never": {
+      "meaning": "从不；永不（表达绝对含义，需注意证据）"
+    },
+    "not": {
+      "meaning": "不；没有"
+    },
+    "one": {
+      "meaning": "一；一个"
+    },
+    "only": {
+      "meaning": "只有；仅仅"
+    },
+    "organise": {
+      "meaning": "组织；安排（英式拼写）"
+    },
+    "others": {
+      "meaning": "其他人；其他事物"
+    },
+    "phrase": {
+      "meaning": "短语"
+    },
+    "pods": {
+      "meaning": "海豚等水生哺乳动物的群体（pod 的复数）"
+    },
+    "poster": {
+      "meaning": "海报"
+    },
+    "preparing": {
+      "meaning": "准备（prepare 的 -ing 形式）"
+    },
+    "presentation": {
+      "meaning": "展示；介绍；演讲"
+    },
+    "pretend": {
+      "meaning": "假装"
+    },
+    "provide": {
+      "meaning": "提供"
+    },
+    "question": {
+      "meaning": "问题"
+    },
+    "rather": {
+      "meaning": "rather than 表示而不是"
+    },
+    "removed": {
+      "meaning": "移除；删去（remove 的过去式）"
+    },
+    "sentence": {
+      "meaning": "句子"
+    },
+    "she": {
+      "meaning": "她"
+    },
+    "short": {
+      "meaning": "短的"
+    },
+    "should": {
+      "meaning": "应该"
+    },
+    "signal": {
+      "meaning": "信号"
+    },
+    "so": {
+      "meaning": "因此；所以（本文连接结果）"
+    },
+    "stay": {
+      "meaning": "保持；停留"
+    },
+    "such": {
+      "meaning": "such as 表示例如，后接名词、名词词组或作名词用的 -ing 形式"
+    },
+    "talk": {
+      "meaning": "演讲；介绍（本文作名词）"
+    },
+    "teacher": {
+      "meaning": "老师"
+    },
+    "teamwork": {
+      "meaning": "团队协作"
+    },
+    "tessa": {
+      "meaning": "苔莎（人名）"
+    },
+    "than": {
+      "meaning": "比；more than 表示不只是、超过"
+    },
+    "that": {
+      "meaning": "那；或引导后面的内容，通常不单独译出"
+    },
+    "the": {
+      "meaning": "定冠词，指明确的人或事物，通常不单独译出"
+    },
+    "these": {
+      "meaning": "这些"
+    },
+    "they": {
+      "meaning": "他们；它们（主格）"
+    },
+    "to": {
+      "meaning": "用于不定式，或表示到……；根据所在短语理解"
+    },
+    "translate": {
+      "meaning": "翻译；解释信号的含义"
+    },
+    "use": {
+      "meaning": "使用"
+    },
+    "using": {
+      "meaning": "使用（use 的 -ing 形式）"
+    },
+    "wanted": {
+      "meaning": "想要（want 的过去式）"
+    },
+    "was": {
+      "meaning": "是（be 的过去式）"
+    },
+    "were": {
+      "meaning": "是（be 的过去式复数形式）"
+    },
+    "what": {
+      "meaning": "什么；……的事情"
+    },
+    "whistle": {
+      "meaning": "哨声；发出哨声（既可作名词，也可作动词）"
+    },
+    "whistles": {
+      "meaning": "哨声（本文作名词复数）"
+    },
+    "with": {
+      "meaning": "和……一起；带有……"
+    },
+    "words": {
+      "meaning": "单词；词语（复数）"
+    }
+  },
+  "sentenceHelp": [
+    {
+      "pattern": "such as + 名词（词组）",
+      "help": "原文 such as 后列出 communication、teamwork、intelligence 等名词。也可接作名词用的 -ing 形式，如 activities such as swimming。"
+    },
+    {
+      "pattern": "For example, + 完整句子",
+      "help": "原文 For example 后有主语 a dolphin 和谓语 may whistle。两种举例方式都正确，但接法不同。"
+    },
+    {
+      "pattern": "communicate → communication; intelligent → intelligence",
+      "help": "communication 是 -ation 名词；intelligence 是 -ence 名词。不要把所有长词都归成 -ance / -ence，也不要机械加词尾。"
+    },
+    {
+      "pattern": "However / but / so",
+      "help": "However 引出清单的不足；but 保留“可能传递信息”和“不能随意翻译”两面意思；so 表示最后解释清楚带来的结果。"
+    }
+  ],
+  "paragraphPrompt": {
+    "paragraph": 3,
+    "question": "最后一段为什么说“断言更少，解释反而更清楚”？请找出作者给的原因。"
+  },
+  "references": [
+    "https://oceanservice.noaa.gov/facts/dolphin_porpoise.html",
+    "https://ocean.si.edu/ocean-life/marine-mammals/whales"
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "id": "changing-map-v1",
+  "title": "An Advantage for the Whole Team",
+  "description": "同学们怎样安排工作，才能让每个人都帮得上忙？",
+  "topic": "校园活动与解决问题",
+  "focus": [
+    "teamwork",
+    "assist",
+    "carry",
+    "join",
+    "back",
+    "forth",
+    "advantage",
+    "assistance"
+  ],
+  "paragraphs": [
+    [
+      "The school was preparing an activity afternoon.",
+      "Eli offered to carry sports equipment from a store room to the field.",
+      "He walked back and forth several times while the other students waited for instructions."
+    ],
+    [
+      "At first, Eli thought that working alone would be faster.",
+      "However, the boxes were different sizes, and one person could not carry everything.",
+      "His teacher asked who could join him."
+    ],
+    [
+      "Two classmates offered assistance.",
+      "One could read the equipment list clearly, while the other knew where each game would take place.",
+      "Eli continued carrying the smaller boxes.",
+      "Now, every person had a clear job."
+    ],
+    [
+      "The advantage was not that everyone worked in exactly the same way.",
+      "Instead, their different skills helped the whole team.",
+      "They finished before the first game began.",
+      "Eli realised that good teamwork meant knowing when to assist others and when to ask for help."
+    ]
+  ],
+  "translations": [
+    "学校正在准备一个活动下午。",
+    "伊莱主动提出把运动器材从储藏室搬到运动场。",
+    "他来回走了好几趟，其他学生则等着分配任务。",
+    "最初，伊莱觉得独自干活会更快。",
+    "然而，箱子大小不同，一个人搬不完所有东西。",
+    "老师问谁能加入他。",
+    "两位同学主动提供帮助。",
+    "一个能清楚地读器材清单，另一个知道各项比赛在哪里举行。",
+    "伊莱继续搬较小的箱子。",
+    "现在，每个人都有了明确的工作。",
+    "好处不在于每个人都用完全一样的方式工作。",
+    "相反，不同的技能帮助了整个团队。",
+    "他们在第一场比赛开始前完成了工作。",
+    "伊莱意识到，好的团队合作意味着知道何时帮助别人，何时求助。"
+  ],
+  "questions": [
+    {
+      "prompt": "What was the main advantage of working together?",
+      "options": [
+        "Everybody carried the same box in the same way.",
+        "The team combined different skills and clear jobs.",
+        "Eli no longer needed to do any work."
+      ],
+      "correct": 1,
+      "evidence": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "explanation": "每人的工作不同，而且伊莱仍在搬箱子；优势是分工与技能互补，不是每个人做同样的事。"
+    },
+    {
+      "prompt": "How did Eli’s view change?",
+      "options": [
+        "He first expected to be faster alone, then understood the value of teamwork.",
+        "He first wanted help, then decided never to ask again.",
+        "He first disliked sport, then learned a new game."
+      ],
+      "correct": 0,
+      "evidence": [
+        3,
+        4,
+        13
+      ],
+      "explanation": "把开头与结尾联系起来：独自更快的想法，变成知道何时帮助和求助。However、Instead 提醒读者关注变化。"
+    }
+  ],
+  "kind": "original",
+  "sourceNote": "突围原创预习阅读 · 复现课堂词汇，练习词形和句段逻辑；非 AEAS 官方试题。",
+  "audios": [
+    {
+      "voice": "Natasha",
+      "label": "澳洲女声 · Natasha",
+      "file": "TUWEI_changing-map-v1_classroom_Natasha.mp3",
+      "data": "audio/TUWEI_changing-map-v1_classroom_Natasha.mp3",
+      "duration": 67.68
+    },
+    {
+      "voice": "William",
+      "label": "澳洲男声 · William",
+      "file": "TUWEI_changing-map-v1_classroom_William.mp3",
+      "data": "audio/TUWEI_changing-map-v1_classroom_William.mp3",
+      "duration": 56.016
+    },
+    {
+      "voice": "Sonia",
+      "label": "英式女声 · Sonia",
+      "file": "TUWEI_changing-map-v1_classroom_Sonia.mp3",
+      "data": "audio/TUWEI_changing-map-v1_classroom_Sonia.mp3",
+      "duration": 60.0
+    },
+    {
+      "voice": "Ryan",
+      "label": "英式男声 · Ryan",
+      "file": "TUWEI_changing-map-v1_classroom_Ryan.mp3",
+      "data": "audio/TUWEI_changing-map-v1_classroom_Ryan.mp3",
+      "duration": 62.016
+    }
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一个（不定冠词）"
+    },
+    "activity": {
+      "meaning": "活动"
+    },
+    "advantage": {
+      "meaning": "优势；好处"
+    },
+    "afternoon": {
+      "meaning": "下午"
+    },
+    "alone": {
+      "meaning": "独自地；独自的"
+    },
+    "an": {
+      "meaning": "一个（用于元音音素开头的词前）"
+    },
+    "and": {
+      "meaning": "和；并且"
+    },
+    "ask": {
+      "meaning": "问；请求"
+    },
+    "asked": {
+      "meaning": "问（ask 的过去式）"
+    },
+    "assist": {
+      "meaning": "帮助；协助（动词）"
+    },
+    "assistance": {
+      "meaning": "帮助；协助（名词，通常不可数）"
+    },
+    "at": {
+      "meaning": "在……地点或时刻；at home 表示在家"
+    },
+    "back": {
+      "meaning": "回来；向后"
+    },
+    "be": {
+      "meaning": "是；处于某种状态（be 动词原形）"
+    },
+    "before": {
+      "meaning": "在……之前"
+    },
+    "began": {
+      "meaning": "开始（begin 的过去式）"
+    },
+    "boxes": {
+      "meaning": "箱子（box 的复数）"
+    },
+    "carry": {
+      "meaning": "携带；搬运；carry a message 表示传递信息"
+    },
+    "carrying": {
+      "meaning": "搬运；携带（carry 的 -ing 形式）"
+    },
+    "classmates": {
+      "meaning": "同班同学（复数）"
+    },
+    "clear": {
+      "meaning": "清楚的；明确的"
+    },
+    "clearly": {
+      "meaning": "清楚地"
+    },
+    "continued": {
+      "meaning": "继续（continue 的过去式）"
+    },
+    "could": {
+      "meaning": "能够；可以"
+    },
+    "different": {
+      "meaning": "不同的"
+    },
+    "each": {
+      "meaning": "每一个；each other 表示彼此"
+    },
+    "eli": {
+      "meaning": "伊莱（人名）"
+    },
+    "equipment": {
+      "meaning": "器材；设备（通常不可数）"
+    },
+    "every": {
+      "meaning": "每一个；每一"
+    },
+    "everyone": {
+      "meaning": "每个人"
+    },
+    "everything": {
+      "meaning": "一切；所有东西"
+    },
+    "exactly": {
+      "meaning": "完全地；恰好地"
+    },
+    "faster": {
+      "meaning": "更快的；更快地"
+    },
+    "field": {
+      "meaning": "场地；sports field 指运动场"
+    },
+    "finished": {
+      "meaning": "完成了（finish 的过去式）"
+    },
+    "first": {
+      "meaning": "最初；第一"
+    },
+    "for": {
+      "meaning": "为了；对……而言；具体按语境理解"
+    },
+    "forth": {
+      "meaning": "向前；back and forth 是固定短语，表示来来回回"
+    },
+    "from": {
+      "meaning": "从……；来自……"
+    },
+    "game": {
+      "meaning": "比赛；游戏"
+    },
+    "good": {
+      "meaning": "好的"
+    },
+    "had": {
+      "meaning": "有；或与过去分词构成过去完成时"
+    },
+    "he": {
+      "meaning": "他"
+    },
+    "help": {
+      "meaning": "帮助"
+    },
+    "helped": {
+      "meaning": "帮助（help 的过去式）"
+    },
+    "him": {
+      "meaning": "他（宾格）"
+    },
+    "his": {
+      "meaning": "他的"
+    },
+    "however": {
+      "meaning": "然而；不过（提示转折）"
+    },
+    "in": {
+      "meaning": "在……里面；在……期间"
+    },
+    "instead": {
+      "meaning": "相反；代替"
+    },
+    "instructions": {
+      "meaning": "指示；操作说明（复数）"
+    },
+    "job": {
+      "meaning": "工作；任务"
+    },
+    "join": {
+      "meaning": "参加；加入"
+    },
+    "knew": {
+      "meaning": "知道（know 的过去式）"
+    },
+    "knowing": {
+      "meaning": "知道（know 的 -ing 形式）"
+    },
+    "list": {
+      "meaning": "清单；列表"
+    },
+    "meant": {
+      "meaning": "意味着；导致（mean 的过去式）"
+    },
+    "not": {
+      "meaning": "不；没有"
+    },
+    "now": {
+      "meaning": "现在"
+    },
+    "offered": {
+      "meaning": "提供；主动提出（offer 的过去式）"
+    },
+    "one": {
+      "meaning": "一；一个"
+    },
+    "other": {
+      "meaning": "其他的；另一个"
+    },
+    "others": {
+      "meaning": "其他人；其他事物"
+    },
+    "person": {
+      "meaning": "人；一个人"
+    },
+    "place": {
+      "meaning": "地方；位置"
+    },
+    "preparing": {
+      "meaning": "准备（prepare 的 -ing 形式）"
+    },
+    "read": {
+      "meaning": "阅读（过去式读音不同于原形）"
+    },
+    "realised": {
+      "meaning": "意识到；明白（realise 的过去式，英式拼写）"
+    },
+    "room": {
+      "meaning": "房间；教室"
+    },
+    "same": {
+      "meaning": "相同的；the same tree 指同一棵树"
+    },
+    "school": {
+      "meaning": "学校"
+    },
+    "several": {
+      "meaning": "几个；数个"
+    },
+    "sizes": {
+      "meaning": "大小；尺寸（复数）"
+    },
+    "skills": {
+      "meaning": "技能；技巧（复数）"
+    },
+    "smaller": {
+      "meaning": "更小的"
+    },
+    "sports": {
+      "meaning": "体育；sports field 指运动场"
+    },
+    "store": {
+      "meaning": "储藏；store room 指储藏室"
+    },
+    "students": {
+      "meaning": "学生（复数）"
+    },
+    "take": {
+      "meaning": "进行；take place 表示举行、发生"
+    },
+    "teacher": {
+      "meaning": "老师"
+    },
+    "team": {
+      "meaning": "团队；小组"
+    },
+    "teamwork": {
+      "meaning": "团队协作"
+    },
+    "that": {
+      "meaning": "那；或引导后面的内容，通常不单独译出"
+    },
+    "the": {
+      "meaning": "定冠词，指明确的人或事物，通常不单独译出"
+    },
+    "their": {
+      "meaning": "他们的；它们的"
+    },
+    "they": {
+      "meaning": "他们；它们（主格）"
+    },
+    "thought": {
+      "meaning": "想；以为（think 的过去式）"
+    },
+    "times": {
+      "meaning": "次数（复数）"
+    },
+    "to": {
+      "meaning": "用于不定式，或表示到……；根据所在短语理解"
+    },
+    "two": {
+      "meaning": "二；两个"
+    },
+    "waited": {
+      "meaning": "等待（wait 的过去式）"
+    },
+    "walked": {
+      "meaning": "走；步行（walk 的过去式）"
+    },
+    "was": {
+      "meaning": "是（be 的过去式）"
+    },
+    "way": {
+      "meaning": "方式；方法"
+    },
+    "were": {
+      "meaning": "是（be 的过去式复数形式）"
+    },
+    "when": {
+      "meaning": "当……的时候"
+    },
+    "where": {
+      "meaning": "在哪里；……的地方"
+    },
+    "while": {
+      "meaning": "当……的时候；与此同时（本文描述同时发生的情况）"
+    },
+    "who": {
+      "meaning": "关系代词，指前面的老师，并引出关于他们的说明"
+    },
+    "whole": {
+      "meaning": "整个的；完整的"
+    },
+    "worked": {
+      "meaning": "工作；干活（work 的过去式）"
+    },
+    "working": {
+      "meaning": "工作；干活（work 的 -ing 形式）"
+    },
+    "would": {
+      "meaning": "将会；在过去语境中表示后来将发生的事"
+    }
+  },
+  "sentenceHelp": [
+    {
+      "pattern": "assist → assistance",
+      "help": "assist 是动词：assist others；assistance 是名词：offer assistance。不能写 offer assist 来表达“提供帮助”。"
+    },
+    {
+      "pattern": "back and forth",
+      "help": "这是一个整体短语，表示来来回回。不要只按 back 和 forth 的单独意思理解。"
+    },
+    {
+      "pattern": "not ... / Instead, ...",
+      "help": "作者先否定“大家做一样的事”是优势，再用 Instead 给出真正的优势：技能不同但互相帮助。"
+    }
+  ],
+  "paragraphPrompt": {
+    "paragraph": 3,
+    "question": "最后一段否定了什么，又肯定了什么？可以先用中文说，再试一句英文。"
+  }
+}

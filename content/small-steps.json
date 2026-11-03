@@ -1,0 +1,389 @@
+{
+  "id": "small-steps-v1",
+  "title": "A Small Performance, Growing Confidence",
+  "description": "阿米拉还没准备好上台，老师怎样帮助她看见进步？",
+  "topic": "学习方法与进步",
+  "focus": [
+    "assistance",
+    "performance",
+    "confidence",
+    "difference"
+  ],
+  "paragraphs": [
+    [
+      "Amira wanted to perform a short song at the school concert.",
+      "However, she always stopped at one difficult part during practice.",
+      "She thought this meant that her whole performance would be poor."
+    ],
+    [
+      "Her teacher offered assistance.",
+      "Together, they practised just four notes, then connected them to the next part.",
+      "The teacher could assist her, but Amira still needed to practise at home."
+    ],
+    [
+      "A week later, Amira listened to two recordings.",
+      "At first, they sounded similar.",
+      "Then she noticed a difference: in the newer recording, she played the difficult part without stopping.",
+      "This small change gave her confidence."
+    ],
+    [
+      "Although she was not ready to play quickly, she could now finish the song slowly.",
+      "She decided to perform at a steady speed.",
+      "A perfect performance was not her goal; showing her progress was."
+    ]
+  ],
+  "translations": [
+    "阿米拉想在学校音乐会上表演一首短歌。",
+    "然而，她练习时总在一个难点停下来。",
+    "她以为这意味着整场表演都会很糟糕。",
+    "老师提供了帮助。",
+    "他们一起只练了四个音符，然后把它们和下一段连接起来。",
+    "老师可以帮助她，但阿米拉仍需要在家练习。",
+    "一周后，阿米拉听了两段录音。",
+    "起初，它们听起来很相似。",
+    "后来她注意到一个不同之处：在较新的录音里，她弹到难点时没有停下来。",
+    "这个小变化给了她信心。",
+    "虽然她还没准备好快速弹奏，但现在已能慢慢弹完整首歌。",
+    "她决定用稳定的速度表演。",
+    "完美的演出不是她的目标；展示进步才是。"
+  ],
+  "questions": [
+    {
+      "prompt": "What gave Amira confidence?",
+      "options": [
+        "She finished the difficult part without stopping.",
+        "She played the whole song very quickly.",
+        "Her teacher performed the concert for her."
+      ],
+      "correct": 0,
+      "evidence": [
+        8,
+        9
+      ],
+      "explanation": "信心来自录音里可听到的具体进步，不是速度提高，也不是老师代替她演出。"
+    },
+    {
+      "prompt": "What does the sentence beginning with “Although” tell us?",
+      "options": [
+        "She was already fast and perfect.",
+        "She could finish slowly even though she was not ready to play quickly.",
+        "She could not finish the song at any speed."
+      ],
+      "correct": 1,
+      "evidence": [
+        10
+      ],
+      "explanation": "Although 连接两面信息：还不能快弹，但已经能慢弹完整首歌。不能只看到 not ready 就判断她完全不会。"
+    }
+  ],
+  "kind": "original",
+  "sourceNote": "突围原创预习阅读 · 复现课堂词汇，练习词形和句段逻辑；非 AEAS 官方试题。",
+  "audios": [
+    {
+      "voice": "Natasha",
+      "label": "澳洲女声 · Natasha",
+      "file": "TUWEI_small-steps-v1_classroom_Natasha.mp3",
+      "data": "audio/TUWEI_small-steps-v1_classroom_Natasha.mp3",
+      "duration": 61.056
+    },
+    {
+      "voice": "William",
+      "label": "澳洲男声 · William",
+      "file": "TUWEI_small-steps-v1_classroom_William.mp3",
+      "data": "audio/TUWEI_small-steps-v1_classroom_William.mp3",
+      "duration": 51.576
+    },
+    {
+      "voice": "Sonia",
+      "label": "英式女声 · Sonia",
+      "file": "TUWEI_small-steps-v1_classroom_Sonia.mp3",
+      "data": "audio/TUWEI_small-steps-v1_classroom_Sonia.mp3",
+      "duration": 55.944
+    },
+    {
+      "voice": "Ryan",
+      "label": "英式男声 · Ryan",
+      "file": "TUWEI_small-steps-v1_classroom_Ryan.mp3",
+      "data": "audio/TUWEI_small-steps-v1_classroom_Ryan.mp3",
+      "duration": 57.408
+    }
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一个（不定冠词）"
+    },
+    "although": {
+      "meaning": "虽然；尽管（引出让步，需连同后半句理解）"
+    },
+    "always": {
+      "meaning": "总是"
+    },
+    "amira": {
+      "meaning": "阿米拉（人名）"
+    },
+    "assist": {
+      "meaning": "帮助；协助（动词）"
+    },
+    "assistance": {
+      "meaning": "帮助；协助（名词，通常不可数）"
+    },
+    "at": {
+      "meaning": "在……地点或时刻；at home 表示在家"
+    },
+    "be": {
+      "meaning": "是；处于某种状态（be 动词原形）"
+    },
+    "but": {
+      "meaning": "但是；而（提示对比或限制，需保留前后两面意思）"
+    },
+    "change": {
+      "meaning": "改变；变化"
+    },
+    "concert": {
+      "meaning": "音乐会"
+    },
+    "confidence": {
+      "meaning": "信心（名词，以 -ence 结尾）；confident 是形容词"
+    },
+    "connected": {
+      "meaning": "连接（connect 的过去式或过去分词）"
+    },
+    "could": {
+      "meaning": "能够；可以"
+    },
+    "decided": {
+      "meaning": "决定（decide 的过去式）"
+    },
+    "difference": {
+      "meaning": "差异；不同之处（名词，以 -ence 结尾）"
+    },
+    "difficult": {
+      "meaning": "困难的；难以完成的"
+    },
+    "during": {
+      "meaning": "在……期间"
+    },
+    "finish": {
+      "meaning": "完成"
+    },
+    "first": {
+      "meaning": "最初；第一"
+    },
+    "four": {
+      "meaning": "四；四个"
+    },
+    "gave": {
+      "meaning": "给；带来（give 的过去式）"
+    },
+    "goal": {
+      "meaning": "目标"
+    },
+    "her": {
+      "meaning": "她的；她（宾格）"
+    },
+    "home": {
+      "meaning": "家；at home 表示在家"
+    },
+    "however": {
+      "meaning": "然而；不过（提示转折）"
+    },
+    "in": {
+      "meaning": "在……里面；在……期间"
+    },
+    "just": {
+      "meaning": "刚刚；have just returned 表示“刚刚回来”"
+    },
+    "later": {
+      "meaning": "后来；之后"
+    },
+    "listened": {
+      "meaning": "听（listen 的过去式）"
+    },
+    "meant": {
+      "meaning": "意味着；导致（mean 的过去式）"
+    },
+    "needed": {
+      "meaning": "需要（need 的过去式）"
+    },
+    "newer": {
+      "meaning": "较新的（new 的比较级）"
+    },
+    "next": {
+      "meaning": "下一个的；接下来的"
+    },
+    "not": {
+      "meaning": "不；没有"
+    },
+    "notes": {
+      "meaning": "音符；备注（复数），具体根据文章理解"
+    },
+    "noticed": {
+      "meaning": "注意到（notice 的过去式）"
+    },
+    "now": {
+      "meaning": "现在"
+    },
+    "offered": {
+      "meaning": "提供；主动提出（offer 的过去式）"
+    },
+    "one": {
+      "meaning": "一；一个"
+    },
+    "part": {
+      "meaning": "部分；片段"
+    },
+    "perfect": {
+      "meaning": "完美的"
+    },
+    "perform": {
+      "meaning": "表演；演出（动词）"
+    },
+    "performance": {
+      "meaning": "表演；演出（名词，以 -ance 结尾）"
+    },
+    "play": {
+      "meaning": "弹奏；演奏；也可表示参加游戏或运动"
+    },
+    "played": {
+      "meaning": "弹奏；演奏了（play 的过去式）"
+    },
+    "poor": {
+      "meaning": "差的；不理想的（本文不表示贫穷）"
+    },
+    "practice": {
+      "meaning": "练习（这里为名词，英式用法）"
+    },
+    "practise": {
+      "meaning": "练习（动词，英式拼写）"
+    },
+    "practised": {
+      "meaning": "练习了（practise 的过去式）"
+    },
+    "progress": {
+      "meaning": "进步；进展（不可数名词）；make progress 表示取得进步"
+    },
+    "quickly": {
+      "meaning": "迅速地"
+    },
+    "ready": {
+      "meaning": "准备好的"
+    },
+    "recording": {
+      "meaning": "录音；录制的片段（本文作名词）"
+    },
+    "recordings": {
+      "meaning": "录音（复数）"
+    },
+    "school": {
+      "meaning": "学校"
+    },
+    "she": {
+      "meaning": "她"
+    },
+    "short": {
+      "meaning": "短的"
+    },
+    "showing": {
+      "meaning": "显示；标出（show 的 -ing 形式）"
+    },
+    "similar": {
+      "meaning": "相似的；可用 similar colours 或 be similar to"
+    },
+    "slowly": {
+      "meaning": "慢慢地"
+    },
+    "small": {
+      "meaning": "小的"
+    },
+    "song": {
+      "meaning": "歌曲"
+    },
+    "sounded": {
+      "meaning": "听起来（sound 的过去式）"
+    },
+    "speed": {
+      "meaning": "速度"
+    },
+    "steady": {
+      "meaning": "稳定的；平稳的"
+    },
+    "still": {
+      "meaning": "仍然；还"
+    },
+    "stopped": {
+      "meaning": "停止；停下来（stop 的过去式）"
+    },
+    "stopping": {
+      "meaning": "停止（stop 的 -ing 形式）"
+    },
+    "teacher": {
+      "meaning": "老师"
+    },
+    "that": {
+      "meaning": "那；或引导后面的内容，通常不单独译出"
+    },
+    "the": {
+      "meaning": "定冠词，指明确的人或事物，通常不单独译出"
+    },
+    "them": {
+      "meaning": "他们；它们（宾格）"
+    },
+    "then": {
+      "meaning": "然后；后来"
+    },
+    "they": {
+      "meaning": "他们；它们（主格）"
+    },
+    "this": {
+      "meaning": "这个；这件事"
+    },
+    "thought": {
+      "meaning": "想；以为（think 的过去式）"
+    },
+    "to": {
+      "meaning": "用于不定式，或表示到……；根据所在短语理解"
+    },
+    "together": {
+      "meaning": "一起"
+    },
+    "two": {
+      "meaning": "二；两个"
+    },
+    "wanted": {
+      "meaning": "想要（want 的过去式）"
+    },
+    "was": {
+      "meaning": "是（be 的过去式）"
+    },
+    "week": {
+      "meaning": "星期；周"
+    },
+    "whole": {
+      "meaning": "整个的；完整的"
+    },
+    "without": {
+      "meaning": "没有；不借助……"
+    },
+    "would": {
+      "meaning": "将会；在过去语境中表示后来将发生的事"
+    }
+  },
+  "sentenceHelp": [
+    {
+      "pattern": "assist → assistance; perform → performance",
+      "help": "assist、perform 是动词；assistance（帮助）、performance（表演）是名词。-ance 是常见名词词尾，但不能给任何动词随意加上它。"
+    },
+    {
+      "pattern": "confident → confidence; differ → difference",
+      "help": "confidence（信心）、difference（差异）是 -ence 名词。词形可能改变，需连同意思一起记。"
+    },
+    {
+      "pattern": "However / Although",
+      "help": "However 提示转折；Although 引出让步，后半句往往补充与预期不同的信息。"
+    }
+  ],
+  "paragraphPrompt": {
+    "paragraph": 2,
+    "question": "第三段里，哪一个具体变化让她有了信心？用自己的话说一句。"
+  }
+}

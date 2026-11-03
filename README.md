@@ -39,3 +39,17 @@ JavaScript 语法、数据覆盖及关键逻辑检查通过；尚未由开发端
 - camp-gorra-classroom-v1: Great fun at Camp Gorra!，课堂复习材料，163 词、7 句、两道补充理解题；来源未核实为 AEAS 官方试题。未发布原始课堂试卷或手写批注。
 - 可用 `?article=camp-gorra-classroom-v1` 或 `?article=school-club-v1` 直达文章，保留既有本机记录。
 - 新增两篇文章的全文 MP3 均由 Edge TTS 预生成并嵌入页面；不依赖设备安装澳洲语音。课堂 PDF 的听力题原始录音仍未提供，本次合成的是阅读文章示范。
+
+## 2026-11-02：8 篇阅读
+
+新增 A Small Performance, Growing Confidence；Finding the Right Dolphin Book；An Advantage for the Whole Team；The Owl in the Picture；A Presentation That Makes Sense。每篇约 131–153 词，配逐句翻译、完整语境词义、两道附依据的理解题和四种全文音频。
+
+全部 32 段示范 MP3 现在放在 `audio/` 目录按需播放，部署时必须一起上传，不能只复制 index.html。示范音频公开；学生录音仍只在浏览器 IndexedDB，云端接入由另一个 thread 处理。
+
+运行 `node tests/reading-library.test.cjs` 做数据与关键逻辑回归；不代表真实浏览器和麦克风验收。
+
+## 课堂知识点复现
+
+五篇新增文章复现课堂词汇，重点是语境词义、句子准确理解、-ance / -ence 词形和句段承接转折。理解题先选择答案、再选择原文依据，之后才显示反馈。读后可选一句话概括和折叠的词形／逻辑提示。
+
+段落笔记保存在 session.paragraphNotes，原文依据保存在 session.evidenceAnswers，云端接入需要保留。没有自动语法或读音评分。所有文章均为原创训练素材，不公开老师反馈或孩子手写笔记。海豚资料参考 NOAA 与 Smithsonian，见对应 JSON 的 references。

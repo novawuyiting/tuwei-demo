@@ -1,0 +1,424 @@
+{
+  "id": "quiet-experiment-v1",
+  "title": "The Owl in the Picture",
+  "description": "照片里明明有猫头鹰，为什么同学们一开始没看见？",
+  "topic": "阅读习惯与观察",
+  "focus": [
+    "owl",
+    "camouflage",
+    "alike",
+    "similar",
+    "appearance",
+    "difference"
+  ],
+  "paragraphs": [
+    [
+      "Lily brought a woodland photograph to the nature club.",
+      "She asked the group to find the owl.",
+      "Most students pointed to a dark shape near the ground, but it was only a leaf."
+    ],
+    [
+      "The owl was sitting higher up beside a tree.",
+      "Its feathers and the bark looked alike.",
+      "Their similar colours made the bird difficult to notice.",
+      "This helped Lily explain camouflage: an animal can be hard to see when it blends with its surroundings."
+    ],
+    [
+      "Oscar said that the owl and the tree were the same.",
+      "Lily disagreed.",
+      "Their appearance was similar, but there was an important difference: one was an animal, and the other was a plant."
+    ],
+    [
+      "The students looked at the picture again, this time more carefully.",
+      "They described the owl’s shape instead of searching only for a colour.",
+      "Finding it required noticing small details, not simply guessing from the first dark shape they saw."
+    ]
+  ],
+  "translations": [
+    "莉莉给自然社团带来一张林地照片。",
+    "她请大家找出猫头鹰。",
+    "大多数学生指着地面附近的一块暗色形状，但那只是一片叶子。",
+    "猫头鹰停在更高处的一棵树旁。",
+    "它的羽毛和树皮看起来很像。",
+    "相似的颜色让这只鸟很难被注意到。",
+    "莉莉借此解释伪装：当动物与周围环境融在一起时，就可能很难被看见。",
+    "奥斯卡说猫头鹰和树是一样的。",
+    "莉莉不同意。",
+    "它们的外观相似，但有一个重要区别：一个是动物，另一个是植物。",
+    "学生们又看了一遍照片，这次更加仔细。",
+    "他们描述猫头鹰的形状，而不只是寻找一种颜色。",
+    "找到它需要留意小细节，而不是凭第一眼看到的暗色形状猜测。"
+  ],
+  "questions": [
+    {
+      "prompt": "Why was the owl difficult to notice?",
+      "options": [
+        "It had left the photograph.",
+        "Its colours were similar to the tree bark.",
+        "Every dark shape in the picture was an owl."
+      ],
+      "correct": 1,
+      "evidence": [
+        4,
+        5,
+        6
+      ],
+      "explanation": "难以发现是因为颜色与树皮相似。不能把“难以看见”理解成“照片里没有”。"
+    },
+    {
+      "prompt": "What does Lily mean when she disagrees with Oscar?",
+      "options": [
+        "Looking similar does not mean being the same thing.",
+        "An owl is a type of plant.",
+        "There is no difference between a bird and a tree."
+      ],
+      "correct": 0,
+      "evidence": [
+        7,
+        8,
+        9
+      ],
+      "explanation": "关键在 but 后的区别：外观相似不代表它们就是同一种事物。"
+    }
+  ],
+  "kind": "original",
+  "sourceNote": "突围原创预习阅读 · 复现课堂词汇，练习词形和句段逻辑；非 AEAS 官方试题。",
+  "audios": [
+    {
+      "voice": "Natasha",
+      "label": "澳洲女声 · Natasha",
+      "file": "TUWEI_quiet-experiment-v1_classroom_Natasha.mp3",
+      "data": "audio/TUWEI_quiet-experiment-v1_classroom_Natasha.mp3",
+      "duration": 63.264
+    },
+    {
+      "voice": "William",
+      "label": "澳洲男声 · William",
+      "file": "TUWEI_quiet-experiment-v1_classroom_William.mp3",
+      "data": "audio/TUWEI_quiet-experiment-v1_classroom_William.mp3",
+      "duration": 53.328
+    },
+    {
+      "voice": "Sonia",
+      "label": "英式女声 · Sonia",
+      "file": "TUWEI_quiet-experiment-v1_classroom_Sonia.mp3",
+      "data": "audio/TUWEI_quiet-experiment-v1_classroom_Sonia.mp3",
+      "duration": 57.48
+    },
+    {
+      "voice": "Ryan",
+      "label": "英式男声 · Ryan",
+      "file": "TUWEI_quiet-experiment-v1_classroom_Ryan.mp3",
+      "data": "audio/TUWEI_quiet-experiment-v1_classroom_Ryan.mp3",
+      "duration": 58.752
+    }
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一个（不定冠词）"
+    },
+    "again": {
+      "meaning": "再一次；又"
+    },
+    "alike": {
+      "meaning": "相似的；常用在 be、look 等后面：look alike"
+    },
+    "an": {
+      "meaning": "一个（用于元音音素开头的词前）"
+    },
+    "and": {
+      "meaning": "和；并且"
+    },
+    "animal": {
+      "meaning": "动物"
+    },
+    "appearance": {
+      "meaning": "外观；样子（名词，appear 的相关词形）"
+    },
+    "asked": {
+      "meaning": "问（ask 的过去式）"
+    },
+    "at": {
+      "meaning": "在……地点或时刻；at home 表示在家"
+    },
+    "bark": {
+      "meaning": "树皮（本文作名词）"
+    },
+    "be": {
+      "meaning": "是；处于某种状态（be 动词原形）"
+    },
+    "beside": {
+      "meaning": "在……旁边"
+    },
+    "bird": {
+      "meaning": "鸟"
+    },
+    "blends": {
+      "meaning": "融合；blend with 表示与……融在一起"
+    },
+    "brought": {
+      "meaning": "带来（bring 的过去式）"
+    },
+    "but": {
+      "meaning": "但是；而（提示对比或限制，需保留前后两面意思）"
+    },
+    "camouflage": {
+      "meaning": "伪装；保护色（本文作名词，也可作动词表示伪装）"
+    },
+    "can": {
+      "meaning": "能够；可以"
+    },
+    "carefully": {
+      "meaning": "仔细地"
+    },
+    "club": {
+      "meaning": "社团；俱乐部"
+    },
+    "colour": {
+      "meaning": "颜色（英式拼写）"
+    },
+    "colours": {
+      "meaning": "颜色（复数，英式拼写）"
+    },
+    "dark": {
+      "meaning": "深色的；暗的"
+    },
+    "described": {
+      "meaning": "描述（describe 的过去式）"
+    },
+    "details": {
+      "meaning": "细节（复数）"
+    },
+    "difference": {
+      "meaning": "差异；不同之处（名词，以 -ence 结尾）"
+    },
+    "difficult": {
+      "meaning": "困难的；难以完成的"
+    },
+    "disagreed": {
+      "meaning": "不同意；意见不一致（disagree 的过去式）"
+    },
+    "explain": {
+      "meaning": "解释；说明"
+    },
+    "feathers": {
+      "meaning": "羽毛（复数）"
+    },
+    "find": {
+      "meaning": "找到；find out 表示‘查明、弄清’"
+    },
+    "finding": {
+      "meaning": "找到；寻找（find 的 -ing 形式）"
+    },
+    "first": {
+      "meaning": "最初；第一"
+    },
+    "for": {
+      "meaning": "为了；对……而言；具体按语境理解"
+    },
+    "from": {
+      "meaning": "从……；来自……"
+    },
+    "ground": {
+      "meaning": "地面"
+    },
+    "group": {
+      "meaning": "小组；一群人"
+    },
+    "guessing": {
+      "meaning": "猜测（guess 的 -ing 形式）"
+    },
+    "hard": {
+      "meaning": "难的；hard to see 表示难以看见"
+    },
+    "helped": {
+      "meaning": "帮助（help 的过去式）"
+    },
+    "higher": {
+      "meaning": "更高的；更高地"
+    },
+    "important": {
+      "meaning": "重要的"
+    },
+    "instead": {
+      "meaning": "相反；代替"
+    },
+    "it": {
+      "meaning": "它；所指对象随句子而变化"
+    },
+    "its": {
+      "meaning": "它的"
+    },
+    "leaf": {
+      "meaning": "叶子（单数）"
+    },
+    "lily": {
+      "meaning": "莉莉（人名）"
+    },
+    "looked": {
+      "meaning": "看起来（look 的过去式）"
+    },
+    "made": {
+      "meaning": "使；made … more comfortable 意为“使……更舒适”"
+    },
+    "more": {
+      "meaning": "更多；更"
+    },
+    "most": {
+      "meaning": "大多数的"
+    },
+    "nature": {
+      "meaning": "自然；nature club 指自然社团"
+    },
+    "near": {
+      "meaning": "在……附近"
+    },
+    "not": {
+      "meaning": "不；没有"
+    },
+    "notice": {
+      "meaning": "注意到"
+    },
+    "noticing": {
+      "meaning": "注意；留意（notice 的 -ing 形式）"
+    },
+    "of": {
+      "meaning": "……的；用于连接词组"
+    },
+    "one": {
+      "meaning": "一；一个"
+    },
+    "only": {
+      "meaning": "只有；仅仅"
+    },
+    "oscar": {
+      "meaning": "奥斯卡（人名）"
+    },
+    "other": {
+      "meaning": "其他的；另一个"
+    },
+    "owl": {
+      "meaning": "猫头鹰"
+    },
+    "owls": {
+      "meaning": "猫头鹰的；这里由 owl’s 去除弯引号后得到，原文是所有格"
+    },
+    "photograph": {
+      "meaning": "照片"
+    },
+    "picture": {
+      "meaning": "图片；画"
+    },
+    "plant": {
+      "meaning": "植物"
+    },
+    "pointed": {
+      "meaning": "指向（point 的过去式）"
+    },
+    "required": {
+      "meaning": "需要；要求（require 的过去式）"
+    },
+    "said": {
+      "meaning": "说；这里也可以指海报上写着（say 的过去式）"
+    },
+    "same": {
+      "meaning": "相同的；the same tree 指同一棵树"
+    },
+    "saw": {
+      "meaning": "看见（see 的过去式）"
+    },
+    "searching": {
+      "meaning": "寻找；search for 表示寻找……"
+    },
+    "see": {
+      "meaning": "看见"
+    },
+    "shape": {
+      "meaning": "形状"
+    },
+    "she": {
+      "meaning": "她"
+    },
+    "similar": {
+      "meaning": "相似的；可用 similar colours 或 be similar to"
+    },
+    "simply": {
+      "meaning": "仅仅；只是"
+    },
+    "sitting": {
+      "meaning": "坐着；停栖（sit 的 -ing 形式）"
+    },
+    "small": {
+      "meaning": "小的"
+    },
+    "students": {
+      "meaning": "学生（复数）"
+    },
+    "surroundings": {
+      "meaning": "周围的环境（常用复数形式）"
+    },
+    "that": {
+      "meaning": "那；或引导后面的内容，通常不单独译出"
+    },
+    "the": {
+      "meaning": "定冠词，指明确的人或事物，通常不单独译出"
+    },
+    "their": {
+      "meaning": "他们的；它们的"
+    },
+    "there": {
+      "meaning": "那里；there was/were 表示有……"
+    },
+    "they": {
+      "meaning": "他们；它们（主格）"
+    },
+    "this": {
+      "meaning": "这个；这件事"
+    },
+    "time": {
+      "meaning": "时间；次数"
+    },
+    "to": {
+      "meaning": "用于不定式，或表示到……；根据所在短语理解"
+    },
+    "tree": {
+      "meaning": "树"
+    },
+    "up": {
+      "meaning": "向上；用法取决于所在词组"
+    },
+    "was": {
+      "meaning": "是（be 的过去式）"
+    },
+    "were": {
+      "meaning": "是（be 的过去式复数形式）"
+    },
+    "when": {
+      "meaning": "当……的时候"
+    },
+    "with": {
+      "meaning": "和……一起；带有……"
+    },
+    "woodland": {
+      "meaning": "林地；树林"
+    }
+  },
+  "sentenceHelp": [
+    {
+      "pattern": "alike / similar",
+      "help": "alike 常放在 be、look 等后面：They look alike。similar 可以修饰名词：similar colours；也可用 be similar to。不要写 an alike owl。"
+    },
+    {
+      "pattern": "appear → appearance; differ → difference",
+      "help": "appearance（外观）以 -ance 结尾，difference（差异）以 -ence 结尾。这里讨论的是外形相似和事物类别不同。"
+    },
+    {
+      "pattern": "camouflage",
+      "help": "camouflage 可作名词（伪装）也可作动词（使……伪装）。本文在 explain 后作名词使用，不意味着老师表里的动词用法不成立。"
+    }
+  ],
+  "paragraphPrompt": {
+    "paragraph": 2,
+    "question": "第三段里“外观相似”和“本质相同”有什么区别？用自己的话解释。"
+  }
+}
