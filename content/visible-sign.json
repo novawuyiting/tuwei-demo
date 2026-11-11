@@ -1,0 +1,430 @@
+{
+  "id": "visible-sign-v1",
+  "title": "A Sign People Could See",
+  "topic": "通知设计与实际检验",
+  "description": "通知写得很完整，却没人看见，问题可能出在哪里？",
+  "focus": [
+    "visible",
+    "position",
+    "significant",
+    "complete"
+  ],
+  "vocabularyGroups": [
+    47,
+    42,
+    40,
+    13
+  ],
+  "kind": "original",
+  "paragraphs": [
+    [
+      "The art club was holding a Saturday workshop.",
+      "Nina made a notice with the date, time, room number and a list of materials.",
+      "She checked every detail and felt that the notice was complete."
+    ],
+    [
+      "However, only two students signed up during the first week.",
+      "Nina asked several classmates whether they had seen it.",
+      "Most had not: the notice was behind an open door, where it was not clearly visible."
+    ],
+    [
+      "She changed its position to a board beside the main entrance.",
+      "She kept the date, time and room number exactly the same.",
+      "A large heading helped people understand the subject before reading the details."
+    ],
+    [
+      "More students noticed the workshop the next day.",
+      "The small change in position had made a significant difference.",
+      "Nina still checked that new readers understood where to go.",
+      "Completing a notice was one task; making sure people could find and use the information was another."
+    ]
+  ],
+  "translations": [
+    "美术社要在星期六举办一次工作坊。",
+    "妮娜做了一张通知，写上日期、时间、教室编号和材料清单。",
+    "她检查了每个细节，觉得通知已经完整了。",
+    "然而，第一周只有两位学生报名。",
+    "妮娜问了几位同学是否看见过通知。",
+    "大多数人没有看见：通知贴在一扇打开的门后，不够显眼。",
+    "她把通知的位置换到了主入口旁的布告栏。",
+    "日期、时间和教室编号都保持原样。",
+    "一个大标题帮助大家先了解主题，再阅读细节。",
+    "第二天，更多学生注意到了这个工作坊。",
+    "位置上的小变化带来了明显的不同。",
+    "妮娜仍然检查，新读到通知的人是否知道该去哪里。",
+    "完成一张通知是一项任务；确保大家能找到并使用信息，是另一项任务。"
+  ],
+  "questions": [
+    {
+      "prompt": "Why had most classmates missed the first notice?",
+      "options": [
+        "It did not include a date or room number.",
+        "Its position made it difficult to see.",
+        "The club had not planned a workshop."
+      ],
+      "correct": 1,
+      "evidence": [
+        1,
+        2,
+        5
+      ],
+      "explanation": "通知内容完整，但位置不显眼。不能把“没人注意到”误解成“信息没写全”。"
+    },
+    {
+      "prompt": "What is the main idea of the last sentence?",
+      "options": [
+        "A complete notice is useful only if people can find and understand it.",
+        "Writing any details on a notice is unnecessary.",
+        "Moving a notice always guarantees that everyone will join."
+      ],
+      "correct": 0,
+      "evidence": [
+        11,
+        12
+      ],
+      "explanation": "结尾区分“写完”与“让信息发挥作用”。文中没有保证每个人都会报名。"
+    }
+  ],
+  "sentenceHelp": [
+    {
+      "pattern": "visible / invisible",
+      "help": "visible 表示“看得见的、显眼的”；invisible 表示“看不见的”。本文 not clearly visible 表示不够显眼，并非物体不存在。"
+    },
+    {
+      "pattern": "complete / completing",
+      "help": "complete 可作形容词“完整的”，也可作动词“完成”；Completing 在末句中指“完成通知这件事”。"
+    },
+    {
+      "pattern": "significant difference",
+      "help": "significant 在这里表示差别“明显、重要”，没有在进行统计显著性检验。要按语境选词义。"
+    }
+  ],
+  "paragraphPrompt": {
+    "paragraph": 3,
+    "question": "最后一段把哪两件事区分开了？请用自己的话说清“写完”与“有用”的区别。"
+  },
+  "sourceNote": "突围原创预习阅读 · 重点词来自提供的 AEAS 词表；非 AEAS 官方试题。",
+  "audios": [
+    {
+      "voice": "Natasha",
+      "label": "澳洲女声 · Natasha",
+      "file": "TUWEI_visible-sign-v1_Natasha.mp3",
+      "data": "audio/TUWEI_visible-sign-v1_Natasha.mp3",
+      "duration": 66.744
+    },
+    {
+      "voice": "William",
+      "label": "澳洲男声 · William",
+      "file": "TUWEI_visible-sign-v1_William.mp3",
+      "data": "audio/TUWEI_visible-sign-v1_William.mp3",
+      "duration": 55.824
+    },
+    {
+      "voice": "Sonia",
+      "label": "英式女声 · Sonia",
+      "file": "TUWEI_visible-sign-v1_Sonia.mp3",
+      "data": "audio/TUWEI_visible-sign-v1_Sonia.mp3",
+      "duration": 61.728
+    },
+    {
+      "voice": "Ryan",
+      "label": "英式男声 · Ryan",
+      "file": "TUWEI_visible-sign-v1_Ryan.mp3",
+      "data": "audio/TUWEI_visible-sign-v1_Ryan.mp3",
+      "duration": 62.208
+    }
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一个（不定冠词）"
+    },
+    "an": {
+      "meaning": "一个（元音音素前的不定冠词）"
+    },
+    "and": {
+      "meaning": "和；并且"
+    },
+    "another": {
+      "meaning": "另一个；再一个"
+    },
+    "art": {
+      "meaning": "美术；艺术"
+    },
+    "asked": {
+      "meaning": "问（ask 的过去式）"
+    },
+    "before": {
+      "meaning": "在……之前"
+    },
+    "behind": {
+      "meaning": "在……后面"
+    },
+    "beside": {
+      "meaning": "在……旁边"
+    },
+    "board": {
+      "meaning": "布告板"
+    },
+    "change": {
+      "meaning": "改变；变化"
+    },
+    "changed": {
+      "meaning": "改变了"
+    },
+    "checked": {
+      "meaning": "检查了"
+    },
+    "classmates": {
+      "meaning": "同班同学（复数）"
+    },
+    "clearly": {
+      "meaning": "清楚地"
+    },
+    "club": {
+      "meaning": "社团；俱乐部"
+    },
+    "complete": {
+      "meaning": "完整的；完成"
+    },
+    "completing": {
+      "meaning": "完成"
+    },
+    "could": {
+      "meaning": "能够；可以"
+    },
+    "date": {
+      "meaning": "日期"
+    },
+    "day": {
+      "meaning": "一天；日子"
+    },
+    "detail": {
+      "meaning": "细节"
+    },
+    "details": {
+      "meaning": "细节（复数）"
+    },
+    "difference": {
+      "meaning": "差异；不同之处（名词，以 -ence 结尾）"
+    },
+    "door": {
+      "meaning": "门"
+    },
+    "during": {
+      "meaning": "在……期间"
+    },
+    "entrance": {
+      "meaning": "入口"
+    },
+    "every": {
+      "meaning": "每一个；每一"
+    },
+    "exactly": {
+      "meaning": "完全地；恰好地"
+    },
+    "felt": {
+      "meaning": "觉得；feel 的过去式"
+    },
+    "find": {
+      "meaning": "找到；find out 表示‘查明、弄清’"
+    },
+    "first": {
+      "meaning": "最初；第一"
+    },
+    "go": {
+      "meaning": "去"
+    },
+    "had": {
+      "meaning": "有；助动词（过去式）"
+    },
+    "heading": {
+      "meaning": "标题"
+    },
+    "helped": {
+      "meaning": "帮助（help 的过去式）"
+    },
+    "holding": {
+      "meaning": "举办；举行"
+    },
+    "however": {
+      "meaning": "然而；不过（提示转折）"
+    },
+    "in": {
+      "meaning": "在……里面；在……期间"
+    },
+    "information": {
+      "meaning": "信息；资料（通常不可数）"
+    },
+    "it": {
+      "meaning": "它；这件事"
+    },
+    "its": {
+      "meaning": "它的"
+    },
+    "kept": {
+      "meaning": "保留；留下（keep 的过去式）"
+    },
+    "large": {
+      "meaning": "大的"
+    },
+    "list": {
+      "meaning": "清单；列表"
+    },
+    "made": {
+      "meaning": "使；made … more comfortable 意为“使……更舒适”"
+    },
+    "main": {
+      "meaning": "主要的"
+    },
+    "making": {
+      "meaning": "制作；使得"
+    },
+    "materials": {
+      "meaning": "材料（复数）"
+    },
+    "more": {
+      "meaning": "更多；更"
+    },
+    "most": {
+      "meaning": "大多数的"
+    },
+    "new": {
+      "meaning": "新的；something new 意为“新事物”"
+    },
+    "next": {
+      "meaning": "下一个的；接下来的"
+    },
+    "nina": {
+      "meaning": "妮娜（人名）"
+    },
+    "not": {
+      "meaning": "不；没有"
+    },
+    "notice": {
+      "meaning": "注意到"
+    },
+    "noticed": {
+      "meaning": "注意到（notice 的过去式）"
+    },
+    "number": {
+      "meaning": "数量；a number of 指“许多”，a record number 指“创纪录的数量”"
+    },
+    "of": {
+      "meaning": "……的；用于连接词组"
+    },
+    "one": {
+      "meaning": "一；一个"
+    },
+    "only": {
+      "meaning": "仅仅；只有"
+    },
+    "open": {
+      "meaning": "开着的；打开"
+    },
+    "people": {
+      "meaning": "人们"
+    },
+    "position": {
+      "meaning": "位置"
+    },
+    "readers": {
+      "meaning": "读者们"
+    },
+    "reading": {
+      "meaning": "阅读；reading garden 指阅读花园"
+    },
+    "room": {
+      "meaning": "房间；教室"
+    },
+    "same": {
+      "meaning": "相同的；the same tree 指同一棵树"
+    },
+    "saturday": {
+      "meaning": "星期六"
+    },
+    "seen": {
+      "meaning": "看见；see 的过去分词"
+    },
+    "several": {
+      "meaning": "几个；数个"
+    },
+    "she": {
+      "meaning": "她"
+    },
+    "signed": {
+      "meaning": "签名；signed up 指报名"
+    },
+    "significant": {
+      "meaning": "显著的；重要的"
+    },
+    "small": {
+      "meaning": "小的"
+    },
+    "still": {
+      "meaning": "仍然；还"
+    },
+    "students": {
+      "meaning": "学生（复数）"
+    },
+    "subject": {
+      "meaning": "学科；subjects 是复数形式"
+    },
+    "sure": {
+      "meaning": "确定；make sure 指确保"
+    },
+    "task": {
+      "meaning": "任务"
+    },
+    "that": {
+      "meaning": "那；引导从句"
+    },
+    "the": {
+      "meaning": "这／那（定冠词）"
+    },
+    "they": {
+      "meaning": "他们；它们"
+    },
+    "time": {
+      "meaning": "时间；次数"
+    },
+    "to": {
+      "meaning": "到；向；动词不定式标记"
+    },
+    "two": {
+      "meaning": "二；两个"
+    },
+    "understand": {
+      "meaning": "理解"
+    },
+    "understood": {
+      "meaning": "理解；understand 的过去式"
+    },
+    "up": {
+      "meaning": "向上；用法取决于所在词组"
+    },
+    "use": {
+      "meaning": "使用"
+    },
+    "visible": {
+      "meaning": "看得见的"
+    },
+    "was": {
+      "meaning": "是；处于（过去式）"
+    },
+    "week": {
+      "meaning": "星期；周"
+    },
+    "where": {
+      "meaning": "在哪里；……的地方"
+    },
+    "whether": {
+      "meaning": "是否"
+    },
+    "with": {
+      "meaning": "和……一起；带有……"
+    },
+    "workshop": {
+      "meaning": "工作坊；实践活动"
+    }
+  }
+}

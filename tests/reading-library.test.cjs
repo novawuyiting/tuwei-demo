@@ -87,7 +87,7 @@ try{
 },0);
 setTimeout(async()=>{
 try{
- assert.equal(run('Object.keys(ARTICLES).length'),8);
+ assert.equal(run('Object.keys(ARTICLES).length'),13);
  const ids=Array.from(run('Object.keys(ARTICLES)'));
  for(const id of ids){
   run('selectArticle('+JSON.stringify(id)+');session=makeSession();records=[session];stage="read";render()');
@@ -104,7 +104,7 @@ try{
   assert.doesNotMatch(elements.get('main').innerHTML,/sampleFlow|loadSampleMarks|data-question=/,id+' read first');
  }
  run('stage="training";render()');
- assert.equal((elements.get('main').innerHTML.match(/class="panel article-card"/g)||[]).length,8);
+ assert.equal((elements.get('main').innerHTML.match(/class="panel article-card"/g)||[]).length,13);
  run('records=[];selectArticle("school-club-v1");session=makeSession();session.status="finished";session.recordings=[{id:"saved",blob:new Blob(["voice"]),seconds:20}];records.push(session);selectArticle("garden-v1");session=makeSession();session.marks.empty={kind:"不会读",source:"学生手动确认"};records.push(session);const draftId=session.id;openReading("small-steps-v1");session.marks.progress={kind:"不懂词义",source:"学生手动确认"};openReading("garden-v1")');
  assert.equal(run('session.id===draftId'),true,'old recording sessions and marks survive article changes');
  assert.equal(run('readingState("school-club-v1").label'),'已完成');
@@ -115,8 +115,8 @@ try{
  run('downloadBlob=(blob,name)=>{window.downloadedName=name}');run('selectArticle("small-steps-v1");bindCommon()');await button.onclick();
  assert.match(fetched,/small-steps-v1_classroom_Natasha\.mp3$/);assert.equal(context.downloadedName,'TUWEI_small-steps-v1_classroom_Natasha.mp3');assert.equal(button.disabled,false);
  context.fetch=async()=>{throw new Error('offline')};await button.onclick();assert.match(elements.get('toast').textContent,/下载未完成/);assert.equal(button.disabled,false);
- assert.ok(Buffer.byteLength(fs.readFileSync(htmlPath,'utf8'))<200000,'page does not download all audio eagerly');
- console.log('Passed eight-article regression: full dictionaries/translations, 16 evidence-based questions, 32 valid audio files, old session preservation, read-first UI, and audio download success/failure.');
+ assert.ok(Buffer.byteLength(fs.readFileSync(htmlPath,'utf8'))<250000,'page does not download all audio eagerly');
+ console.log('Passed thirteen-article regression: full dictionaries/translations, 26 evidence-based questions, 52 valid audio files, old session preservation, read-first UI, and audio download success/failure.');
 }catch(e){console.error(e);process.exitCode=1}
 },30);
 setTimeout(async()=>{

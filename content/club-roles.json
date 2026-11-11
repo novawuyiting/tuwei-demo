@@ -1,0 +1,472 @@
+{
+  "id": "club-roles-v1",
+  "title": "Two Jobs in One Club",
+  "topic": "兴趣与活动分工",
+  "description": "不喜欢站上舞台，是否仍然能参加戏剧社？",
+  "focus": [
+    "involve",
+    "suitable",
+    "personal",
+    "organisation"
+  ],
+  "vocabularyGroups": [
+    12,
+    14,
+    15,
+    41
+  ],
+  "kind": "original",
+  "paragraphs": [
+    [
+      "Ben wanted to join the drama club, but he did not enjoy speaking on stage.",
+      "He thought every club member had to act.",
+      "When he saw the sign for new members, he nearly walked past."
+    ],
+    [
+      "The club leader explained that each show would involve more than actors.",
+      "Someone needed to organise the equipment, check the music and help with the lights.",
+      "Ben enjoyed planning, so these jobs sounded suitable for him."
+    ],
+    [
+      "At the first meeting, everyone wrote down their personal interests.",
+      "The leader did not use the list to put people into permanent roles.",
+      "Instead, members could try a job and discuss whether it suited them."
+    ],
+    [
+      "Ben began by checking the equipment list.",
+      "Later, he offered to read one short line during a practice.",
+      "The club had given him a comfortable place to start, not a rule that he must stay behind the stage.",
+      "Good organisation helped people join in while leaving room for their interests to change."
+    ]
+  ],
+  "translations": [
+    "本想参加戏剧社，但不喜欢站在舞台上讲话。",
+    "他以为每个社员都必须演戏。",
+    "看到招募新成员的告示时，他差一点直接走过去。",
+    "社长解释说，每场演出需要参与的人不只是演员。",
+    "还需要有人整理器材、检查音乐，并协助灯光工作。",
+    "本喜欢做计划，所以这些工作听起来很适合他。",
+    "第一次开会时，每个人都写下自己的兴趣。",
+    "社长并没有用这张清单把大家固定在某些角色上。",
+    "相反，社员可以先尝试一种工作，再讨论是否适合自己。",
+    "本一开始负责核对器材清单。",
+    "后来，他主动提出在一次练习中念一句短台词。",
+    "社团给了他一个舒适的起点，而不是规定他必须一直待在幕后。",
+    "良好的组织安排帮助大家参与，也为兴趣的变化留下了空间。"
+  ],
+  "questions": [
+    {
+      "prompt": "What did Ben misunderstand at first?",
+      "options": [
+        "He thought joining the club always meant acting on stage.",
+        "He thought the club needed people to organise equipment.",
+        "He thought members could try different jobs."
+      ],
+      "correct": 0,
+      "evidence": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "explanation": "第一段说的是本最初的误解；第二段才补充演员以外的工作。"
+    },
+    {
+      "prompt": "What does Ben’s later choice show?",
+      "options": [
+        "He had been forced to become the lead actor.",
+        "His first job gave him a starting point, while other choices stayed open.",
+        "The leader had stopped him from trying anything new."
+      ],
+      "correct": 1,
+      "evidence": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "explanation": "念一句台词说明他可以尝试新角色，不表示已成为主演，也不表示之前的安排永久限制了他。"
+    }
+  ],
+  "sentenceHelp": [
+    {
+      "pattern": "suit → suitable",
+      "help": "suit 在本文作动词“适合”；suitable 是形容词。可用 a suitable job 或 be suitable for somebody。"
+    },
+    {
+      "pattern": "organise → organisation",
+      "help": "organise 是动词，organisation 是名词，本文指“组织安排”。与 assist → assistance 一起记，避免机械套同一个词尾。"
+    },
+    {
+      "pattern": "Instead / not ... / while ...",
+      "help": "这些连接帮助区分“给一个起点”和“限制在固定角色上”两种不同意思。"
+    }
+  ],
+  "paragraphPrompt": {
+    "paragraph": 2,
+    "question": "第三段为什么要先写兴趣，却又不把人固定在一个角色上？请说一句自己的理解。"
+  },
+  "sourceNote": "突围原创预习阅读 · 重点词来自提供的 AEAS 词表；非 AEAS 官方试题。",
+  "audios": [
+    {
+      "voice": "Natasha",
+      "label": "澳洲女声 · Natasha",
+      "file": "TUWEI_club-roles-v1_Natasha.mp3",
+      "data": "audio/TUWEI_club-roles-v1_Natasha.mp3",
+      "duration": 68.712
+    },
+    {
+      "voice": "William",
+      "label": "澳洲男声 · William",
+      "file": "TUWEI_club-roles-v1_William.mp3",
+      "data": "audio/TUWEI_club-roles-v1_William.mp3",
+      "duration": 56.616
+    },
+    {
+      "voice": "Sonia",
+      "label": "英式女声 · Sonia",
+      "file": "TUWEI_club-roles-v1_Sonia.mp3",
+      "data": "audio/TUWEI_club-roles-v1_Sonia.mp3",
+      "duration": 61.944
+    },
+    {
+      "voice": "Ryan",
+      "label": "英式男声 · Ryan",
+      "file": "TUWEI_club-roles-v1_Ryan.mp3",
+      "data": "audio/TUWEI_club-roles-v1_Ryan.mp3",
+      "duration": 62.976
+    }
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一个（不定冠词）"
+    },
+    "act": {
+      "meaning": "表演；扮演角色"
+    },
+    "actors": {
+      "meaning": "演员们"
+    },
+    "and": {
+      "meaning": "和；并且"
+    },
+    "at": {
+      "meaning": "在……地点或时刻；at home 表示在家"
+    },
+    "began": {
+      "meaning": "开始（begin 的过去式）"
+    },
+    "behind": {
+      "meaning": "在……后面"
+    },
+    "ben": {
+      "meaning": "本（人名）"
+    },
+    "but": {
+      "meaning": "但是；而（提示对比或限制，需保留前后两面意思）"
+    },
+    "by": {
+      "meaning": "通过；依据；by its cover 指根据封面"
+    },
+    "change": {
+      "meaning": "改变；变化"
+    },
+    "check": {
+      "meaning": "检查；核实"
+    },
+    "checking": {
+      "meaning": "检查"
+    },
+    "club": {
+      "meaning": "社团；俱乐部"
+    },
+    "comfortable": {
+      "meaning": "舒服的；舒适的"
+    },
+    "could": {
+      "meaning": "能够；可以"
+    },
+    "did": {
+      "meaning": "用于过去时的助动词；did not 表示没有"
+    },
+    "discuss": {
+      "meaning": "讨论"
+    },
+    "down": {
+      "meaning": "向下；write down 指写下"
+    },
+    "drama": {
+      "meaning": "戏剧；drama club 指戏剧社"
+    },
+    "during": {
+      "meaning": "在……期间"
+    },
+    "each": {
+      "meaning": "每一个；each other 表示彼此"
+    },
+    "enjoy": {
+      "meaning": "享受"
+    },
+    "enjoyed": {
+      "meaning": "喜欢；享受（enjoy 的过去式）"
+    },
+    "equipment": {
+      "meaning": "器材；设备（通常不可数）"
+    },
+    "every": {
+      "meaning": "每一个；每一"
+    },
+    "everyone": {
+      "meaning": "每个人"
+    },
+    "explained": {
+      "meaning": "解释；说明（explain 的过去式）"
+    },
+    "first": {
+      "meaning": "最初；第一"
+    },
+    "for": {
+      "meaning": "为了；对于"
+    },
+    "given": {
+      "meaning": "给予；give 的过去分词"
+    },
+    "good": {
+      "meaning": "好的"
+    },
+    "had": {
+      "meaning": "有；助动词（过去式）"
+    },
+    "he": {
+      "meaning": "他"
+    },
+    "help": {
+      "meaning": "帮助"
+    },
+    "helped": {
+      "meaning": "帮助（help 的过去式）"
+    },
+    "him": {
+      "meaning": "他（宾格）"
+    },
+    "in": {
+      "meaning": "在……里面；在……期间"
+    },
+    "instead": {
+      "meaning": "相反；代替"
+    },
+    "interests": {
+      "meaning": "兴趣（复数）"
+    },
+    "into": {
+      "meaning": "进入；turn … into … 中表示“变成……”"
+    },
+    "involve": {
+      "meaning": "涉及；需要……参与"
+    },
+    "it": {
+      "meaning": "它；这件事"
+    },
+    "job": {
+      "meaning": "工作；任务"
+    },
+    "jobs": {
+      "meaning": "工作；任务（复数）"
+    },
+    "join": {
+      "meaning": "参加；加入"
+    },
+    "later": {
+      "meaning": "后来；之后"
+    },
+    "leader": {
+      "meaning": "负责人；领队"
+    },
+    "leaving": {
+      "meaning": "留下；留出"
+    },
+    "lights": {
+      "meaning": "灯光"
+    },
+    "line": {
+      "meaning": "一句台词；一行"
+    },
+    "list": {
+      "meaning": "清单；列表"
+    },
+    "meeting": {
+      "meaning": "会议；聚会"
+    },
+    "member": {
+      "meaning": "成员"
+    },
+    "members": {
+      "meaning": "成员们"
+    },
+    "more": {
+      "meaning": "更多；更"
+    },
+    "music": {
+      "meaning": "音乐"
+    },
+    "must": {
+      "meaning": "必须"
+    },
+    "nearly": {
+      "meaning": "差一点；几乎"
+    },
+    "needed": {
+      "meaning": "需要（need 的过去式）"
+    },
+    "new": {
+      "meaning": "新的；something new 意为“新事物”"
+    },
+    "not": {
+      "meaning": "不；没有"
+    },
+    "offered": {
+      "meaning": "提供；主动提出（offer 的过去式）"
+    },
+    "on": {
+      "meaning": "在……时候或上面；根据所在短语理解"
+    },
+    "one": {
+      "meaning": "一；一个"
+    },
+    "organisation": {
+      "meaning": "组织；安排（英式拼写）"
+    },
+    "organise": {
+      "meaning": "组织；安排（英式拼写）"
+    },
+    "past": {
+      "meaning": "经过；walk past 指走过"
+    },
+    "people": {
+      "meaning": "人们"
+    },
+    "permanent": {
+      "meaning": "永久的；固定不变的"
+    },
+    "personal": {
+      "meaning": "个人的"
+    },
+    "place": {
+      "meaning": "地方；位置"
+    },
+    "planning": {
+      "meaning": "规划；做计划"
+    },
+    "practice": {
+      "meaning": "练习（这里为名词，英式用法）"
+    },
+    "put": {
+      "meaning": "放置；put up a sign 意为“立起一块牌子”"
+    },
+    "read": {
+      "meaning": "阅读（过去式读音不同于原形）"
+    },
+    "roles": {
+      "meaning": "角色；分工"
+    },
+    "room": {
+      "meaning": "房间；教室"
+    },
+    "rule": {
+      "meaning": "规则"
+    },
+    "saw": {
+      "meaning": "看见（see 的过去式）"
+    },
+    "short": {
+      "meaning": "短的"
+    },
+    "show": {
+      "meaning": "演出"
+    },
+    "sign": {
+      "meaning": "标牌；告示牌"
+    },
+    "so": {
+      "meaning": "因此；所以（本文连接结果）"
+    },
+    "someone": {
+      "meaning": "某人"
+    },
+    "sounded": {
+      "meaning": "听起来（sound 的过去式）"
+    },
+    "speaking": {
+      "meaning": "说话"
+    },
+    "stage": {
+      "meaning": "舞台"
+    },
+    "start": {
+      "meaning": "开始；起点"
+    },
+    "stay": {
+      "meaning": "保持；停留"
+    },
+    "suitable": {
+      "meaning": "合适的"
+    },
+    "suited": {
+      "meaning": "适合"
+    },
+    "than": {
+      "meaning": "比；more than 表示不只是、超过"
+    },
+    "that": {
+      "meaning": "那；引导从句"
+    },
+    "the": {
+      "meaning": "这／那（定冠词）"
+    },
+    "their": {
+      "meaning": "他们的"
+    },
+    "them": {
+      "meaning": "他们；它们（宾格）"
+    },
+    "these": {
+      "meaning": "这些"
+    },
+    "thought": {
+      "meaning": "想；以为（think 的过去式）"
+    },
+    "to": {
+      "meaning": "到；向；动词不定式标记"
+    },
+    "try": {
+      "meaning": "尝试"
+    },
+    "use": {
+      "meaning": "使用"
+    },
+    "walked": {
+      "meaning": "走；步行（walk 的过去式）"
+    },
+    "wanted": {
+      "meaning": "想要（want 的过去式）"
+    },
+    "when": {
+      "meaning": "当……的时候"
+    },
+    "whether": {
+      "meaning": "是否"
+    },
+    "while": {
+      "meaning": "当……的时候；与此同时（本文描述同时发生的情况）"
+    },
+    "with": {
+      "meaning": "和……一起；带有……"
+    },
+    "would": {
+      "meaning": "会；将会；假设语气"
+    },
+    "wrote": {
+      "meaning": "写（write 的过去式）"
+    }
+  }
+}

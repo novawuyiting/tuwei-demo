@@ -1,0 +1,438 @@
+{
+  "id": "bag-repair-v1",
+  "title": "A Repair Worth Making",
+  "topic": "生活选择与比较",
+  "description": "一个旧书包，是修好更合适，还是直接换新？",
+  "focus": [
+    "quality",
+    "amount",
+    "economical",
+    "alternative"
+  ],
+  "vocabularyGroups": [
+    28,
+    25,
+    17,
+    18
+  ],
+  "kind": "original",
+  "paragraphs": [
+    [
+      "Mila wanted a new school bag because the zip on her old one kept opening.",
+      "She found a bright replacement in a shop window.",
+      "However, buying it would use almost all the money she had saved."
+    ],
+    [
+      "Her father asked her to check the old bag before deciding.",
+      "Its straps were strong, and the material was still of good quality.",
+      "Only the zip needed attention."
+    ],
+    [
+      "A repair shop offered an alternative: replace the zip for six dollars.",
+      "That amount was much smaller than the price of the new bag.",
+      "Mila also asked how long the repair would take, because she needed the bag on Monday."
+    ],
+    [
+      "The shop could finish by Saturday, so she chose the repair.",
+      "It was an economical choice for this situation: she could keep a useful bag and spend less money.",
+      "Mila did not decide that repairing was always best.",
+      "If the straps had been damaged too, she would have needed to compare the choices again."
+    ]
+  ],
+  "translations": [
+    "米拉想买一个新书包，因为旧书包的拉链总是自己打开。",
+    "她在一家商店的橱窗里看到了一个鲜艳的新款。",
+    "然而，买下它几乎要用完她存下的所有钱。",
+    "爸爸请她在决定前先检查旧书包。",
+    "肩带很结实，材料的质量也仍然很好。",
+    "只有拉链需要处理。",
+    "一家修理店提供了另一种方案：花六美元换拉链。",
+    "这个金额比新书包的价格小得多。",
+    "米拉还问了修理需要多久，因为她星期一就要用书包。",
+    "店里能在星期六前修好，所以她选择了修理。",
+    "在这个情况下，这是一个经济实惠的选择：她既能保留一个有用的书包，又少花钱。",
+    "米拉并没有因此认定，修理永远是最好的。",
+    "如果肩带也损坏了，她就需要重新比较不同选择。"
+  ],
+  "questions": [
+    {
+      "prompt": "Why was repair a suitable choice for Mila this time?",
+      "options": [
+        "Every part of her bag was damaged.",
+        "The rest of the bag was useful, and the repair could be ready in time.",
+        "The repair cost more than a new bag."
+      ],
+      "correct": 1,
+      "evidence": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "explanation": "要结合质量、费用和完成时间，而不能只看到“便宜”就作答。"
+    },
+    {
+      "prompt": "Why does the writer mention damaged straps at the end?",
+      "options": [
+        "To show that a different situation could lead to a different choice.",
+        "To say that Mila’s straps were already broken.",
+        "To prove that new bags are always a waste of money."
+      ],
+      "correct": 0,
+      "evidence": [
+        11,
+        12
+      ],
+      "explanation": "最后一句是假设，说明结论有条件；不是说她现在的肩带已经坏了。"
+    }
+  ],
+  "sentenceHelp": [
+    {
+      "pattern": "economic / economical",
+      "help": "economical 侧重“省钱、省资源的”；economic 常表示“经济方面的”。本文用 economical 描述这次选择划算。"
+    },
+    {
+      "pattern": "amount of money",
+      "help": "amount 常与不可数名词连用，如 an amount of money。可数物品数量通常用 number。"
+    },
+    {
+      "pattern": "for this situation / If ...",
+      "help": "作者为结论限定情境，并用假设提醒读者：条件改变，选择也可能改变。"
+    }
+  ],
+  "paragraphPrompt": {
+    "paragraph": 3,
+    "question": "最后一段是否认为“修理永远更好”？请说出这个结论成立的条件。"
+  },
+  "sourceNote": "突围原创预习阅读 · 重点词来自提供的 AEAS 词表；非 AEAS 官方试题。",
+  "audios": [
+    {
+      "voice": "Natasha",
+      "label": "澳洲女声 · Natasha",
+      "file": "TUWEI_bag-repair-v1_Natasha.mp3",
+      "data": "audio/TUWEI_bag-repair-v1_Natasha.mp3",
+      "duration": 66.432
+    },
+    {
+      "voice": "William",
+      "label": "澳洲男声 · William",
+      "file": "TUWEI_bag-repair-v1_William.mp3",
+      "data": "audio/TUWEI_bag-repair-v1_William.mp3",
+      "duration": 55.464
+    },
+    {
+      "voice": "Sonia",
+      "label": "英式女声 · Sonia",
+      "file": "TUWEI_bag-repair-v1_Sonia.mp3",
+      "data": "audio/TUWEI_bag-repair-v1_Sonia.mp3",
+      "duration": 59.016
+    },
+    {
+      "voice": "Ryan",
+      "label": "英式男声 · Ryan",
+      "file": "TUWEI_bag-repair-v1_Ryan.mp3",
+      "data": "audio/TUWEI_bag-repair-v1_Ryan.mp3",
+      "duration": 61.656
+    }
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一个（不定冠词）"
+    },
+    "again": {
+      "meaning": "再一次；又"
+    },
+    "all": {
+      "meaning": "所有；全部"
+    },
+    "almost": {
+      "meaning": "几乎"
+    },
+    "also": {
+      "meaning": "也"
+    },
+    "alternative": {
+      "meaning": "另一种可选择的方案"
+    },
+    "always": {
+      "meaning": "总是"
+    },
+    "amount": {
+      "meaning": "数量；此处指金额"
+    },
+    "an": {
+      "meaning": "一个（元音音素前的不定冠词）"
+    },
+    "and": {
+      "meaning": "和；并且"
+    },
+    "asked": {
+      "meaning": "问（ask 的过去式）"
+    },
+    "attention": {
+      "meaning": "关注；处理"
+    },
+    "bag": {
+      "meaning": "书包；包"
+    },
+    "because": {
+      "meaning": "因为"
+    },
+    "been": {
+      "meaning": "be 的过去分词"
+    },
+    "before": {
+      "meaning": "在……之前"
+    },
+    "best": {
+      "meaning": "最好的"
+    },
+    "bright": {
+      "meaning": "鲜艳的；明亮的"
+    },
+    "buying": {
+      "meaning": "购买"
+    },
+    "by": {
+      "meaning": "通过；依据；by its cover 指根据封面"
+    },
+    "check": {
+      "meaning": "检查；核实"
+    },
+    "choice": {
+      "meaning": "选择"
+    },
+    "choices": {
+      "meaning": "选择；方案（复数）"
+    },
+    "chose": {
+      "meaning": "选择了；choose 的过去式"
+    },
+    "compare": {
+      "meaning": "比较"
+    },
+    "could": {
+      "meaning": "能够；可以"
+    },
+    "damaged": {
+      "meaning": "受损的；损坏了"
+    },
+    "decide": {
+      "meaning": "决定"
+    },
+    "deciding": {
+      "meaning": "做决定"
+    },
+    "did": {
+      "meaning": "用于过去时的助动词；did not 表示没有"
+    },
+    "dollars": {
+      "meaning": "元；美元等货币单位"
+    },
+    "economical": {
+      "meaning": "节省费用的；经济实惠的"
+    },
+    "father": {
+      "meaning": "父亲"
+    },
+    "finish": {
+      "meaning": "完成"
+    },
+    "for": {
+      "meaning": "为了；对于"
+    },
+    "found": {
+      "meaning": "找到（find 的过去式或过去分词）"
+    },
+    "good": {
+      "meaning": "好的"
+    },
+    "had": {
+      "meaning": "有；助动词（过去式）"
+    },
+    "have": {
+      "meaning": "与 returned 构成现在完成时，表示“已经返回”"
+    },
+    "her": {
+      "meaning": "她的；她"
+    },
+    "how": {
+      "meaning": "如何；怎样"
+    },
+    "however": {
+      "meaning": "然而；不过（提示转折）"
+    },
+    "if": {
+      "meaning": "如果"
+    },
+    "in": {
+      "meaning": "在……里面；在……期间"
+    },
+    "it": {
+      "meaning": "它；这件事"
+    },
+    "its": {
+      "meaning": "它的"
+    },
+    "keep": {
+      "meaning": "保留；保持"
+    },
+    "kept": {
+      "meaning": "保留；留下（keep 的过去式）"
+    },
+    "less": {
+      "meaning": "更少"
+    },
+    "long": {
+      "meaning": "长的；长时间的"
+    },
+    "material": {
+      "meaning": "材料；布料"
+    },
+    "mila": {
+      "meaning": "米拉（人名）"
+    },
+    "monday": {
+      "meaning": "星期一"
+    },
+    "money": {
+      "meaning": "钱"
+    },
+    "much": {
+      "meaning": "多；非常"
+    },
+    "needed": {
+      "meaning": "需要（need 的过去式）"
+    },
+    "new": {
+      "meaning": "新的；something new 意为“新事物”"
+    },
+    "not": {
+      "meaning": "不；没有"
+    },
+    "of": {
+      "meaning": "……的；用于连接词组"
+    },
+    "offered": {
+      "meaning": "提供；主动提出（offer 的过去式）"
+    },
+    "old": {
+      "meaning": "旧的；原来的"
+    },
+    "on": {
+      "meaning": "在……时候或上面；根据所在短语理解"
+    },
+    "one": {
+      "meaning": "一；一个"
+    },
+    "only": {
+      "meaning": "仅仅；只有"
+    },
+    "opening": {
+      "meaning": "打开"
+    },
+    "price": {
+      "meaning": "价格"
+    },
+    "quality": {
+      "meaning": "质量"
+    },
+    "repair": {
+      "meaning": "修理"
+    },
+    "repairing": {
+      "meaning": "修理"
+    },
+    "replace": {
+      "meaning": "替换；更换"
+    },
+    "replacement": {
+      "meaning": "替代品"
+    },
+    "saturday": {
+      "meaning": "星期六"
+    },
+    "saved": {
+      "meaning": "积攒了；节省了"
+    },
+    "school": {
+      "meaning": "学校"
+    },
+    "she": {
+      "meaning": "她"
+    },
+    "shop": {
+      "meaning": "商店"
+    },
+    "situation": {
+      "meaning": "情况；情境"
+    },
+    "six": {
+      "meaning": "六"
+    },
+    "smaller": {
+      "meaning": "更小的"
+    },
+    "so": {
+      "meaning": "因此；所以（本文连接结果）"
+    },
+    "spend": {
+      "meaning": "花费"
+    },
+    "still": {
+      "meaning": "仍然；还"
+    },
+    "straps": {
+      "meaning": "背带；带子"
+    },
+    "strong": {
+      "meaning": "结实的；强壮的"
+    },
+    "take": {
+      "meaning": "进行；take place 表示举行、发生"
+    },
+    "than": {
+      "meaning": "比；more than 表示不只是、超过"
+    },
+    "that": {
+      "meaning": "那；引导从句"
+    },
+    "the": {
+      "meaning": "这／那（定冠词）"
+    },
+    "this": {
+      "meaning": "这；这个"
+    },
+    "to": {
+      "meaning": "到；向；动词不定式标记"
+    },
+    "too": {
+      "meaning": "也"
+    },
+    "use": {
+      "meaning": "使用"
+    },
+    "useful": {
+      "meaning": "有用的"
+    },
+    "wanted": {
+      "meaning": "想要（want 的过去式）"
+    },
+    "was": {
+      "meaning": "是；处于（过去式）"
+    },
+    "were": {
+      "meaning": "是（be 的过去式复数形式）"
+    },
+    "window": {
+      "meaning": "窗户；橱窗"
+    },
+    "would": {
+      "meaning": "会；将会；假设语气"
+    },
+    "zip": {
+      "meaning": "拉链"
+    }
+  }
+}

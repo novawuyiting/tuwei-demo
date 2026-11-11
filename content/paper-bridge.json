@@ -1,0 +1,432 @@
+{
+  "id": "paper-bridge-v1",
+  "title": "One Bridge, Two Different Tests",
+  "topic": "实验与证据",
+  "description": "纸桥承受了更多硬币，就能证明这个设计更好吗？",
+  "focus": [
+    "experiment",
+    "evidence",
+    "approach",
+    "alternative"
+  ],
+  "vocabularyGroups": [
+    20,
+    9,
+    21,
+    18
+  ],
+  "kind": "original",
+  "paragraphs": [
+    [
+      "In science club, Hana tried an experiment with two paper bridges.",
+      "She folded one sheet into a flat shape and another into a narrow strip.",
+      "Then she placed coins on each bridge until it fell."
+    ],
+    [
+      "The narrow bridge held more coins.",
+      "Hana called it the better design and began writing her report.",
+      "However, her partner noticed that she had used thicker paper for that bridge."
+    ],
+    [
+      "Their approach had changed two things at once: the shape and the paper.",
+      "The result was evidence of what happened in that test, but not enough to explain which change mattered.",
+      "They needed another test."
+    ],
+    [
+      "As an alternative, they made both bridges from the same type of paper.",
+      "They also kept the gap between the books the same.",
+      "This time, they repeated each test before comparing the results.",
+      "Hana changed her report: one successful attempt was a useful beginning, not the end of the investigation."
+    ]
+  ],
+  "translations": [
+    "在科学社团里，哈娜用两座纸桥做了一个实验。",
+    "她把一张纸折成平坦的形状，把另一张折成较窄的纸条。",
+    "然后，她往每座桥上放硬币，直到桥倒下。",
+    "较窄的桥承受了更多硬币。",
+    "哈娜把它称为更好的设计，开始写报告。",
+    "然而，搭档注意到，她给那座桥用了更厚的纸。",
+    "她们的方法同时改变了两件事：形状和纸张。",
+    "结果是那次测试中所发生情况的证据，但不足以解释是哪种变化起了作用。",
+    "她们需要再做一次测试。",
+    "作为另一种方案，她们用同一种纸制作了两座桥。",
+    "她们也让两本书之间的间距保持一致。",
+    "这一次，她们重复每项测试后才比较结果。",
+    "哈娜修改了报告：一次成功的尝试是有用的开始，而不是探究的终点。"
+  ],
+  "questions": [
+    {
+      "prompt": "Why was the first test not enough to judge the designs?",
+      "options": [
+        "The paper and the shape were both different.",
+        "The bridges had exactly the same shape.",
+        "Hana had not placed any coins on the bridges."
+      ],
+      "correct": 0,
+      "evidence": [
+        1,
+        5,
+        6,
+        7
+      ],
+      "explanation": "第一轮同时改变纸的厚度和桥的形状，不能仅凭结果确定是哪一个因素造成差异。"
+    },
+    {
+      "prompt": "What does the passage tell us about the second test?",
+      "options": [
+        "It proved that every narrow bridge was stronger.",
+        "The team made conditions more similar and repeated the tests.",
+        "The team stopped measuring and guessed the result."
+      ],
+      "correct": 1,
+      "evidence": [
+        9,
+        10,
+        11
+      ],
+      "explanation": "文中说明了改进方法，但没有公布第二次测试哪座桥胜出；不能自己补出结论。"
+    }
+  ],
+  "sentenceHelp": [
+    {
+      "pattern": "evidence / explain",
+      "help": "evidence 是证据，通常不可数。看到某个结果，并不等于已经解释了原因。"
+    },
+    {
+      "pattern": "approach / alternative",
+      "help": "approach 在本文是名词“方法”；alternative 是“另一种方案”，并不自动意味着更好的方案。"
+    },
+    {
+      "pattern": "However / but / not enough",
+      "help": "这些表达提示前面结论的限制。需要区分“发生了什么”和“为什么发生”。"
+    }
+  ],
+  "paragraphPrompt": {
+    "paragraph": 2,
+    "question": "第三段为什么说结果是证据，却还不足以解释原因？试着用自己的话说一句。"
+  },
+  "sourceNote": "突围原创预习阅读 · 重点词来自提供的 AEAS 词表；非 AEAS 官方试题。",
+  "audios": [
+    {
+      "voice": "Natasha",
+      "label": "澳洲女声 · Natasha",
+      "file": "TUWEI_paper-bridge-v1_Natasha.mp3",
+      "data": "audio/TUWEI_paper-bridge-v1_Natasha.mp3",
+      "duration": 66.408
+    },
+    {
+      "voice": "William",
+      "label": "澳洲男声 · William",
+      "file": "TUWEI_paper-bridge-v1_William.mp3",
+      "data": "audio/TUWEI_paper-bridge-v1_William.mp3",
+      "duration": 55.8
+    },
+    {
+      "voice": "Sonia",
+      "label": "英式女声 · Sonia",
+      "file": "TUWEI_paper-bridge-v1_Sonia.mp3",
+      "data": "audio/TUWEI_paper-bridge-v1_Sonia.mp3",
+      "duration": 60.696
+    },
+    {
+      "voice": "Ryan",
+      "label": "英式男声 · Ryan",
+      "file": "TUWEI_paper-bridge-v1_Ryan.mp3",
+      "data": "audio/TUWEI_paper-bridge-v1_Ryan.mp3",
+      "duration": 61.56
+    }
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一个（不定冠词）"
+    },
+    "also": {
+      "meaning": "也"
+    },
+    "alternative": {
+      "meaning": "另一种可选择的方案"
+    },
+    "an": {
+      "meaning": "一个（元音音素前的不定冠词）"
+    },
+    "and": {
+      "meaning": "和；并且"
+    },
+    "another": {
+      "meaning": "另一个；再一个"
+    },
+    "approach": {
+      "meaning": "方法；做法"
+    },
+    "as": {
+      "meaning": "像……一样；作为；具体按语境理解"
+    },
+    "at": {
+      "meaning": "在……地点或时刻；at home 表示在家"
+    },
+    "attempt": {
+      "meaning": "尝试"
+    },
+    "before": {
+      "meaning": "在……之前"
+    },
+    "began": {
+      "meaning": "开始（begin 的过去式）"
+    },
+    "beginning": {
+      "meaning": "开始"
+    },
+    "better": {
+      "meaning": "更好的"
+    },
+    "between": {
+      "meaning": "在两者之间"
+    },
+    "books": {
+      "meaning": "书（复数）"
+    },
+    "both": {
+      "meaning": "两者都"
+    },
+    "bridge": {
+      "meaning": "桥"
+    },
+    "bridges": {
+      "meaning": "桥（复数）"
+    },
+    "but": {
+      "meaning": "但是；而（提示对比或限制，需保留前后两面意思）"
+    },
+    "called": {
+      "meaning": "被称作的；called pods 指被称为 pods 的"
+    },
+    "change": {
+      "meaning": "改变；变化"
+    },
+    "changed": {
+      "meaning": "改变了"
+    },
+    "club": {
+      "meaning": "社团；俱乐部"
+    },
+    "coins": {
+      "meaning": "硬币"
+    },
+    "comparing": {
+      "meaning": "比较"
+    },
+    "design": {
+      "meaning": "设计"
+    },
+    "each": {
+      "meaning": "每一个；each other 表示彼此"
+    },
+    "end": {
+      "meaning": "结束；尽头"
+    },
+    "enough": {
+      "meaning": "足够地；full enough to ... 表示“水量足够充沛，可以……”"
+    },
+    "evidence": {
+      "meaning": "证据；依据（通常不可数）"
+    },
+    "experiment": {
+      "meaning": "实验"
+    },
+    "explain": {
+      "meaning": "解释；说明"
+    },
+    "fell": {
+      "meaning": "倒下；fall 的过去式"
+    },
+    "flat": {
+      "meaning": "平的"
+    },
+    "folded": {
+      "meaning": "折叠了"
+    },
+    "for": {
+      "meaning": "为了；对于"
+    },
+    "from": {
+      "meaning": "从……；来自……"
+    },
+    "gap": {
+      "meaning": "间隔；空隙"
+    },
+    "had": {
+      "meaning": "有；助动词（过去式）"
+    },
+    "hana": {
+      "meaning": "哈娜（人名）"
+    },
+    "happened": {
+      "meaning": "发生了"
+    },
+    "held": {
+      "meaning": "承受；hold 的过去式"
+    },
+    "her": {
+      "meaning": "她的；她"
+    },
+    "however": {
+      "meaning": "然而；不过（提示转折）"
+    },
+    "in": {
+      "meaning": "在……里面；在……期间"
+    },
+    "into": {
+      "meaning": "进入；turn … into … 中表示“变成……”"
+    },
+    "investigation": {
+      "meaning": "调查；探究"
+    },
+    "it": {
+      "meaning": "它；这件事"
+    },
+    "kept": {
+      "meaning": "保留；留下（keep 的过去式）"
+    },
+    "made": {
+      "meaning": "使；made … more comfortable 意为“使……更舒适”"
+    },
+    "mattered": {
+      "meaning": "起重要作用；有影响"
+    },
+    "more": {
+      "meaning": "更多；更"
+    },
+    "narrow": {
+      "meaning": "窄的"
+    },
+    "needed": {
+      "meaning": "需要（need 的过去式）"
+    },
+    "not": {
+      "meaning": "不；没有"
+    },
+    "noticed": {
+      "meaning": "注意到（notice 的过去式）"
+    },
+    "of": {
+      "meaning": "……的；用于连接词组"
+    },
+    "on": {
+      "meaning": "在……时候或上面；根据所在短语理解"
+    },
+    "once": {
+      "meaning": "一次；at once 指同时"
+    },
+    "one": {
+      "meaning": "一；一个"
+    },
+    "paper": {
+      "meaning": "纸"
+    },
+    "partner": {
+      "meaning": "搭档"
+    },
+    "placed": {
+      "meaning": "放置了"
+    },
+    "repeated": {
+      "meaning": "重复了"
+    },
+    "report": {
+      "meaning": "报告；汇报"
+    },
+    "result": {
+      "meaning": "结果"
+    },
+    "results": {
+      "meaning": "结果（复数）"
+    },
+    "same": {
+      "meaning": "相同的；the same tree 指同一棵树"
+    },
+    "science": {
+      "meaning": "科学"
+    },
+    "shape": {
+      "meaning": "形状"
+    },
+    "she": {
+      "meaning": "她"
+    },
+    "sheet": {
+      "meaning": "一张（纸等）"
+    },
+    "strip": {
+      "meaning": "条；长条"
+    },
+    "successful": {
+      "meaning": "成功的"
+    },
+    "test": {
+      "meaning": "测试；试验"
+    },
+    "that": {
+      "meaning": "那；引导从句"
+    },
+    "the": {
+      "meaning": "这／那（定冠词）"
+    },
+    "their": {
+      "meaning": "他们的"
+    },
+    "then": {
+      "meaning": "然后；后来"
+    },
+    "they": {
+      "meaning": "他们；它们"
+    },
+    "thicker": {
+      "meaning": "更厚的"
+    },
+    "things": {
+      "meaning": "事物（复数）"
+    },
+    "this": {
+      "meaning": "这；这个"
+    },
+    "time": {
+      "meaning": "时间；次数"
+    },
+    "to": {
+      "meaning": "到；向；动词不定式标记"
+    },
+    "tried": {
+      "meaning": "尝试了"
+    },
+    "two": {
+      "meaning": "二；两个"
+    },
+    "type": {
+      "meaning": "类型；种类"
+    },
+    "until": {
+      "meaning": "直到"
+    },
+    "used": {
+      "meaning": "使用（use 的过去式）"
+    },
+    "useful": {
+      "meaning": "有用的"
+    },
+    "was": {
+      "meaning": "是；处于（过去式）"
+    },
+    "what": {
+      "meaning": "什么；……的事情"
+    },
+    "which": {
+      "meaning": "哪一个；此处引导从句指哪种改变"
+    },
+    "with": {
+      "meaning": "和……一起；带有……"
+    },
+    "writing": {
+      "meaning": "写作；书写"
+    }
+  }
+}

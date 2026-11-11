@@ -53,3 +53,17 @@ JavaScript 语法、数据覆盖及关键逻辑检查通过；尚未由开发端
 五篇新增文章复现课堂词汇，重点是语境词义、句子准确理解、-ance / -ence 词形和句段承接转折。理解题先选择答案、再选择原文依据，之后才显示反馈。读后可选一句话概括和折叠的词形／逻辑提示。
 
 段落笔记保存在 session.paragraphNotes，原文依据保存在 session.evidenceAnswers，云端接入需要保留。没有自动语法或读音评分。所有文章均为原创训练素材，不公开老师反馈或孩子手写笔记。海豚资料参考 NOAA 与 Smithsonian，见对应 JSON 的 references。
+
+## 2026-11-11 词表阅读补充
+
+新增 5 篇原创练习，文章库共 13 篇。词汇选自《AEAS核心高频词汇》相关组别，结合双语例句册的语境学习方式；不是 AEAS 官方试题。每篇约 145–160 词，提供逐句翻译、完整词义、两道需选择原文依据的理解题、段落概括提示，以及澳洲／英式男女声的完整合成朗读。
+
+| 文章 | 重点词 | 词表组别 |
+| --- | --- | --- |
+| A Survey with Missing Voices | survey, majority, count, representative | 38, 10, 39, 34 |
+| One Bridge, Two Different Tests | experiment, evidence, approach, alternative | 20, 9, 21, 18 |
+| A Repair Worth Making | quality, amount, economical, alternative | 28, 25, 17, 18 |
+| Two Jobs in One Club | involve, suitable, personal, organisation | 12, 14, 15, 41 |
+| A Sign People Could See | visible, position, significant, complete | 47, 42, 40, 13 |
+
+文章数据同步至 student.html、parent.html、family-test.html，以及首页课程目录；既有文章 ID、页面交互及账号流程保持兼容。内容回归检查：`node tests/reading-library.test.cjs` 和 `node tests/article-catalog.test.cjs`。

@@ -1,0 +1,410 @@
+{
+  "id": "missing-voices-v1",
+  "title": "A Survey with Missing Voices",
+  "topic": "调查与信息判断",
+  "description": "多数人选择了足球，这就代表全校同学的想法吗？",
+  "focus": [
+    "survey",
+    "majority",
+    "count",
+    "representative"
+  ],
+  "vocabularyGroups": [
+    38,
+    10,
+    39,
+    34
+  ],
+  "kind": "original",
+  "paragraphs": [
+    [
+      "The student council wanted to choose a new lunchtime activity.",
+      "Ari made a survey and asked students near the sports field to reply.",
+      "Of the 30 replies, 26 suggested football and four suggested music."
+    ],
+    [
+      "Ari counted the answers carefully.",
+      "A clear majority had chosen football.",
+      "He was ready to tell the council that almost everyone in the school wanted it."
+    ],
+    [
+      "However, his friend noticed that all the replies came from the same place.",
+      "Students who spent lunchtime in the library had not been asked.",
+      "The count was correct, but the survey was not representative of the whole school."
+    ],
+    [
+      "The next day, Ari collected replies in several other places.",
+      "The new results included more suggestions for art and music.",
+      "He still reported the first results, but explained who had answered.",
+      "A large number of similar answers was useful only when he understood whose voices were missing."
+    ]
+  ],
+  "translations": [
+    "学生会想选择一种新的午间活动。",
+    "阿里做了一份调查，请运动场附近的学生回答。",
+    "30 份回复中，26 份建议足球，4 份建议音乐。",
+    "阿里仔细数了答案。",
+    "明显的多数选择了足球。",
+    "他准备告诉学生会，学校里几乎每个人都想选足球。",
+    "然而，朋友注意到，所有回复都来自同一个地方。",
+    "在图书馆度过午间时间的学生并没有被询问。",
+    "计数正确，但调查不能代表全校。",
+    "第二天，阿里又在其他几个地方收集了回复。",
+    "新结果里出现了更多美术和音乐方面的建议。",
+    "他仍报告了最初的结果，但解释了是谁作答的。",
+    "只有弄清哪些人的声音缺失了，大量相似答案才对他有用。"
+  ],
+  "questions": [
+    {
+      "prompt": "What did the first survey show?",
+      "options": [
+        "Most of the 30 replies suggested football.",
+        "Every student in the school preferred football.",
+        "Nobody in the library enjoyed music."
+      ],
+      "correct": 0,
+      "evidence": [
+        2,
+        4
+      ],
+      "explanation": "多数指的是这 30 份回复，不是全校所有学生；原文也没有给出图书馆学生的偏好。"
+    },
+    {
+      "prompt": "Why did Ari collect replies in other places?",
+      "options": [
+        "He had added the first numbers incorrectly.",
+        "He wanted to include students missing from the first survey.",
+        "The council had already cancelled every activity."
+      ],
+      "correct": 1,
+      "evidence": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "explanation": "问题在于受访者范围，而不是计数。but 前后两面信息要同时保留：数字算对了，调查仍可能不够有代表性。"
+    }
+  ],
+  "sentenceHelp": [
+    {
+      "pattern": "majority of whom?",
+      "help": "majority 表示多数，但要追问“谁之中的多数”。这里是受访者，而不是全校。"
+    },
+    {
+      "pattern": "represent → representative",
+      "help": "represent 是动词“代表”；representative 在本文作形容词，表示“有代表性的”。不要只按词长猜词性。"
+    },
+    {
+      "pattern": "correct, but ...",
+      "help": "but 引出限制：正确的计算，不必然带来正确的整体判断。"
+    }
+  ],
+  "paragraphPrompt": {
+    "paragraph": 2,
+    "question": "第三段为什么说“计数正确，但调查不能代表全校”？请用一句话说清两面的意思。"
+  },
+  "sourceNote": "突围原创预习阅读 · 重点词来自提供的 AEAS 词表；非 AEAS 官方试题。",
+  "audios": [
+    {
+      "voice": "Natasha",
+      "label": "澳洲女声 · Natasha",
+      "file": "TUWEI_missing-voices-v1_Natasha.mp3",
+      "data": "audio/TUWEI_missing-voices-v1_Natasha.mp3",
+      "duration": 67.728
+    },
+    {
+      "voice": "William",
+      "label": "澳洲男声 · William",
+      "file": "TUWEI_missing-voices-v1_William.mp3",
+      "data": "audio/TUWEI_missing-voices-v1_William.mp3",
+      "duration": 56.232
+    },
+    {
+      "voice": "Sonia",
+      "label": "英式女声 · Sonia",
+      "file": "TUWEI_missing-voices-v1_Sonia.mp3",
+      "data": "audio/TUWEI_missing-voices-v1_Sonia.mp3",
+      "duration": 61.992
+    },
+    {
+      "voice": "Ryan",
+      "label": "英式男声 · Ryan",
+      "file": "TUWEI_missing-voices-v1_Ryan.mp3",
+      "data": "audio/TUWEI_missing-voices-v1_Ryan.mp3",
+      "duration": 61.848
+    }
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一个（不定冠词）"
+    },
+    "activity": {
+      "meaning": "活动"
+    },
+    "all": {
+      "meaning": "所有；全部"
+    },
+    "almost": {
+      "meaning": "几乎"
+    },
+    "and": {
+      "meaning": "和；并且"
+    },
+    "answered": {
+      "meaning": "回答了（answer 的过去式）"
+    },
+    "answers": {
+      "meaning": "回答；答案"
+    },
+    "ari": {
+      "meaning": "阿里（人名）"
+    },
+    "art": {
+      "meaning": "美术；艺术"
+    },
+    "asked": {
+      "meaning": "问（ask 的过去式）"
+    },
+    "been": {
+      "meaning": "be 的过去分词"
+    },
+    "but": {
+      "meaning": "但是；而（提示对比或限制，需保留前后两面意思）"
+    },
+    "came": {
+      "meaning": "来；come 的过去式"
+    },
+    "carefully": {
+      "meaning": "仔细地"
+    },
+    "choose": {
+      "meaning": "选择"
+    },
+    "chosen": {
+      "meaning": "选择；choose 的过去分词"
+    },
+    "clear": {
+      "meaning": "清楚的；明确的"
+    },
+    "collected": {
+      "meaning": "收集（collect 的过去式）"
+    },
+    "correct": {
+      "meaning": "正确的"
+    },
+    "council": {
+      "meaning": "委员会；议事会"
+    },
+    "count": {
+      "meaning": "计数；统计出的数量"
+    },
+    "counted": {
+      "meaning": "数了；统计了"
+    },
+    "day": {
+      "meaning": "一天；日子"
+    },
+    "everyone": {
+      "meaning": "每个人"
+    },
+    "explained": {
+      "meaning": "解释；说明（explain 的过去式）"
+    },
+    "field": {
+      "meaning": "场地；sports field 指运动场"
+    },
+    "first": {
+      "meaning": "最初；第一"
+    },
+    "football": {
+      "meaning": "足球"
+    },
+    "for": {
+      "meaning": "为了；对于"
+    },
+    "four": {
+      "meaning": "四；四个"
+    },
+    "friend": {
+      "meaning": "朋友"
+    },
+    "from": {
+      "meaning": "从……；来自……"
+    },
+    "had": {
+      "meaning": "有；助动词（过去式）"
+    },
+    "he": {
+      "meaning": "他"
+    },
+    "his": {
+      "meaning": "他的"
+    },
+    "however": {
+      "meaning": "然而；不过（提示转折）"
+    },
+    "in": {
+      "meaning": "在……里面；在……期间"
+    },
+    "included": {
+      "meaning": "包括了"
+    },
+    "it": {
+      "meaning": "它；这件事"
+    },
+    "large": {
+      "meaning": "大的"
+    },
+    "library": {
+      "meaning": "图书馆"
+    },
+    "lunchtime": {
+      "meaning": "午饭时间"
+    },
+    "made": {
+      "meaning": "使；made … more comfortable 意为“使……更舒适”"
+    },
+    "majority": {
+      "meaning": "大多数；过半数"
+    },
+    "missing": {
+      "meaning": "缺少的；未被纳入的"
+    },
+    "more": {
+      "meaning": "更多；更"
+    },
+    "music": {
+      "meaning": "音乐"
+    },
+    "near": {
+      "meaning": "在……附近"
+    },
+    "new": {
+      "meaning": "新的；something new 意为“新事物”"
+    },
+    "next": {
+      "meaning": "下一个的；接下来的"
+    },
+    "not": {
+      "meaning": "不；没有"
+    },
+    "noticed": {
+      "meaning": "注意到（notice 的过去式）"
+    },
+    "number": {
+      "meaning": "数量；a number of 指“许多”，a record number 指“创纪录的数量”"
+    },
+    "of": {
+      "meaning": "……的；用于连接词组"
+    },
+    "only": {
+      "meaning": "仅仅；只有"
+    },
+    "other": {
+      "meaning": "其他的；另一个"
+    },
+    "place": {
+      "meaning": "地方；位置"
+    },
+    "places": {
+      "meaning": "地方（复数）"
+    },
+    "ready": {
+      "meaning": "准备好的"
+    },
+    "replies": {
+      "meaning": "回复（复数）"
+    },
+    "reply": {
+      "meaning": "回复"
+    },
+    "reported": {
+      "meaning": "报告；表示；reported having ... 指“表示经历了……”"
+    },
+    "representative": {
+      "meaning": "有代表性的"
+    },
+    "results": {
+      "meaning": "结果（复数）"
+    },
+    "same": {
+      "meaning": "相同的；the same tree 指同一棵树"
+    },
+    "school": {
+      "meaning": "学校"
+    },
+    "several": {
+      "meaning": "几个；数个"
+    },
+    "similar": {
+      "meaning": "相似的；可用 similar colours 或 be similar to"
+    },
+    "spent": {
+      "meaning": "花费；spend 的过去式"
+    },
+    "sports": {
+      "meaning": "体育；sports field 指运动场"
+    },
+    "still": {
+      "meaning": "仍然；还"
+    },
+    "student": {
+      "meaning": "学生"
+    },
+    "students": {
+      "meaning": "学生（复数）"
+    },
+    "suggested": {
+      "meaning": "建议了；提出了"
+    },
+    "suggestions": {
+      "meaning": "建议（复数）"
+    },
+    "survey": {
+      "meaning": "调查；问卷调查"
+    },
+    "tell": {
+      "meaning": "告诉"
+    },
+    "that": {
+      "meaning": "那；引导从句"
+    },
+    "the": {
+      "meaning": "这／那（定冠词）"
+    },
+    "to": {
+      "meaning": "到；向；动词不定式标记"
+    },
+    "understood": {
+      "meaning": "理解；understand 的过去式"
+    },
+    "useful": {
+      "meaning": "有用的"
+    },
+    "voices": {
+      "meaning": "声音；意见"
+    },
+    "wanted": {
+      "meaning": "想要（want 的过去式）"
+    },
+    "was": {
+      "meaning": "是；处于（过去式）"
+    },
+    "were": {
+      "meaning": "是（be 的过去式复数形式）"
+    },
+    "when": {
+      "meaning": "当……的时候"
+    },
+    "who": {
+      "meaning": "关系代词，指前面的老师，并引出关于他们的说明"
+    },
+    "whole": {
+      "meaning": "整个的；完整的"
+    },
+    "whose": {
+      "meaning": "关系代词，表示“这些人的……”，引出他们的划船技巧"
+    }
+  }
+}
